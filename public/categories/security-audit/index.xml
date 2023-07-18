@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>security-audit on My Portfolio</title>
+    <link>http://kazuf3.github.io/portfolio/categories/security-audit/</link>
+    <description>Recent content in security-audit on My Portfolio</description>
+    <image>
+      <title>My Portfolio</title>
+      <url>http://kazuf3.github.io/portfolio/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://kazuf3.github.io/portfolio/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 17 Jul 2023 21:04:23 -0700</lastBuildDate><atom:link href="http://kazuf3.github.io/portfolio/categories/security-audit/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cyber Security Portfolio Index</title>
+      <link>http://kazuf3.github.io/portfolio/posts/cyber-security-portfolio-index/</link>
+      <pubDate>Mon, 17 Jul 2023 20:19:48 -0700</pubDate>
+      
+      <guid>http://kazuf3.github.io/portfolio/posts/cyber-security-portfolio-index/</guid>
+      <description> Security Audit </description>
+    </item>
+    
+    <item>
+      <title>Security Audit</title>
+      <link>http://kazuf3.github.io/portfolio/posts/security-audit/</link>
+      <pubDate>Mon, 17 Jul 2023 20:21:09 -0700</pubDate>
+      
+      <guid>http://kazuf3.github.io/portfolio/posts/security-audit/</guid>
+      <description>This portfolio project is to perform a security audit of an organization.
+Project Setup Controls assessment Compliance checklist Stakeholder memorandum Project Setup Summary Perform an audit of Botium Toys’ cybersecurity program. The audit needs to align current business practices with industry standards and best practices. The audit is meant to provide mitigation recommendations for vulnerabilities found that are classified as “high risk,” and present an overall strategy for improving the security posture of the organization.</description>
+    </item>
+    
+    <item>
+      <title>Stakeholder Memorandum</title>
+      <link>http://kazuf3.github.io/portfolio/posts/stakeholder-memorandum/</link>
+      <pubDate>Mon, 17 Jul 2023 21:04:23 -0700</pubDate>
+      
+      <guid>http://kazuf3.github.io/portfolio/posts/stakeholder-memorandum/</guid>
+      <description>Back to Security Audit
+Stakeholder memorandum TO: IT Manager, Stakeholders
+FROM: Kazuhiro Funakoshi
+DATE: 07/13/2023
+SUBJECT: Internal IT Audit Findings and Recommendations
+Dear Colleagues,
+Please review the following information regarding the Botium Toys internal audit scope, goals, critical findings, summary and recommendations.
+Scope The following systems are in scope: accounting, endpoint detection, firewalls, intrusion detection system, security information and event management (SIEM) tool.
+Ensure current user permissions, controls, procedures, and protocols in place align with necessary compliance requirements.</description>
+    </item>
+    
+    <item>
+      <title>Compliance Checklist</title>
+      <link>http://kazuf3.github.io/portfolio/posts/compliance-checklist/</link>
+      <pubDate>Mon, 17 Jul 2023 21:00:47 -0700</pubDate>
+      
+      <guid>http://kazuf3.github.io/portfolio/posts/compliance-checklist/</guid>
+      <description>Back to Security Audit
+[ ] The Federal Energy Regulatory Commission - North American Electric Reliability Corporation (FERC-NERC) The FERC-NERC regulation applies to organizations that work with electricity or that are involved with the U.S. and North American power grid. Organizations have an obligation to prepare for, mitigate, and report any potential security incident that can negatively affect the power grid. Organizations are legally required to adhere to the Critical Infrastructure Protection Reliability Standards (CIP) defined by the FERC.</description>
+    </item>
+    
+    <item>
+      <title>Controls Assessment</title>
+      <link>http://kazuf3.github.io/portfolio/posts/controls-assessment/</link>
+      <pubDate>Mon, 17 Jul 2023 20:52:21 -0700</pubDate>
+      
+      <guid>http://kazuf3.github.io/portfolio/posts/controls-assessment/</guid>
+      <description>Back to Security Audit
+Controls Assessment Current assets Assets managed by the IT Department include:
+On-premises equipment for in-office business needs Employee equipment: end-user devices (desktops/laptops, smartphones), remote workstations, headsets, cables, keyboards, mice, docking stations, surveillance cameras, etc. Management of systems, software, and services: accounting, telecommunication, database, security, ecommerce, and inventory management Internet access Internal network Vendor access management Data center hosting services Data retention and storage Badge readers Legacy system maintenance: end-of-life systems that require human monitoring Administrative Controls Least Priviledge Needs to be implemented; High</description>
+    </item>
+    
+  </channel>
+</rss>
