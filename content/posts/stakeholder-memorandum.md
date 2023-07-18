@@ -1,7 +1,7 @@
 ---
 title: "Stakeholder Memorandum"
 date: 2023-07-17T21:04:23-07:00
-categories: ["cybersecurity", "portfolio", "security-audit"]
+categories: ["cybersecurity", "portfolio", "security audit"]
 ---
 [Back to Security Audit]({{< ref "security-audit" >}})
 

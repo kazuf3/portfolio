@@ -1,7 +1,7 @@
 ---
 title: "Compliance Checklist"
 date: 2023-07-17T21:00:47-07:00
-categories: ["cybersecurity", "portfolio", "security-audit"]
+categories: ["cybersecurity", "portfolio", "security audit"]
 ---
 [Back to Security Audit]({{< ref "security-audit" >}})
 
