@@ -5,5 +5,14 @@ weight: 1
 categories: ["cybersecurity", "portfolio", "security audit", "incident report"]
 ---
 
-- [Security Audit]({{< ref "security-audit" >}}): Security audit over policies and compliance
-- [Incident Report]({{< ref "incident-report" >}}): Applying the NIST CSF
+[Security Audit]({{< ref "security-audit" >}})
+: Conduct a security audit
+
+[Incident Report]({{< ref "incident-report" >}})
+: Use the NIST Cybersecurity Framework to respond to a security incident
+
+[Linux Commands]({{< ref "linux-commands" >}})
+: Use Linux commands to manage file permissions
+
+[SQL Queries]({{< ref "sql-queries" >}})
+: Apply filters to SQL queries
