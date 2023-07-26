@@ -4,8 +4,8 @@ date: 2023-07-18T18:05:51-07:00
 categories: ["portfolio", "cybersecurity", "SQL Queries"]
 weight: 5
 ---
-
-- [Scenario]({{< ref "#scenario" >}})
+- [Back to index]({{< ref "cyber-security-portfolio-index" >}})
+- [Scenario(given)]({{< ref "#scenario" >}})
 - [Apply filters to SQL queries]({{< ref "apply-filters-to-sql-queries" >}})
 
 ## Scenario

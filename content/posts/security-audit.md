@@ -5,7 +5,7 @@ toc: true
 weight: 5
 categories: ["cybersecurity", "portfolio", "security audit"]
 ---
-This portfolio project is to perform a security audit of an organization.
+- [Back to index]({{< ref "cyber-security-portfolio-index" >}})
 - [Project Setup]({{< ref "#project-setup" >}})
 - [Controls assessment]({{< ref "controls-assessment" >}})
 - [Compliance checklist]({{< ref "compliance-checklist" >}})

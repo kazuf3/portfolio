@@ -2,7 +2,7 @@
 title: "Cyber Security Portfolio Index"
 date: 2023-07-17T20:19:48-07:00
 weight: 1
-categories: ["cybersecurity", "portfolio", "security audit", "incident report"]
+categories: ["cybersecurity", "portfolio"]
 ---
 
 [Security Audit]({{< ref "security-audit" >}})
@@ -16,3 +16,12 @@ categories: ["cybersecurity", "portfolio", "security audit", "incident report"]
 
 [SQL Queries]({{< ref "sql-queries" >}})
 : Apply filters to SQL queries
+
+[Vulnerability Assessment]({{< ref "vulnerability-assessment" >}})
+: Conduct a vulnerability assessment based on NIST SP-800-30
+
+[Incident Handler's Journal]({{< ref "incident-handlers-journal" >}})
+: Documenting of incident responses
+
+[File handling in Python]({{< ref "algorithm-for-file-update-in-python" >}})
+: Using Python to maintain a security related file (allow-list_

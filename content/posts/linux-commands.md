@@ -4,9 +4,9 @@ date: 2023-07-18T18:05:44-07:00
 categories: ["portfolio", "cybersecurity", "linux commands"]
 weight: 5
 ---
-
-- [Scenario]({{< ref "#scenario" >}})
-- [Current file permissions]({{< ref "#current-file-permissions" >}})
+- [Back to index]({{< ref "cyber-security-portfolio-index" >}})
+- [Scenario(given)]({{< ref "#scenario" >}})
+- [Current file permissions(given)]({{< ref "#current-file-permissions" >}})
 - [File permissions in Linux]({{< ref "file-permissions-in-linux" >}})
 
 ## Scenario
