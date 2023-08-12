@@ -69,7 +69,7 @@ recommending it and where to patch.
 
 ![User lockout duration](images/user-lockout-duration.png)
 
-In this case, it is suggested in order to mitigate DoS attach. It makes sense,
+In this case, it is suggested in order to mitigate DoS attack. It makes sense,
 right? Also it says where to policy locates. Now we can change the value, from
 10 mins to 15 mins.
 
