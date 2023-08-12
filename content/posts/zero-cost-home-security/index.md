@@ -1,7 +1,7 @@
 ---
 title: "Zero Cost Home Cybersecurity with WSL2 and Wazuh"
 date: 2023-08-11T10:01:43-07:00
-categories: ["cybersecurity", "blog"]
+categories: ["cybersecurity", "blog", "wazuh"]
 weight: 5
 ---
 There are many cybersecurity solutions for home usage in combination with
@@ -37,9 +37,18 @@ To install Wazuh on WSL2, we can use the official installation script that can
 be found at `https://packages.wazuh.com/4.3/wazuh-install.sh`. After the
 installation, **dashboard login credentials will be prompted**.
 
-Or, follow the official step-by-step guide ( [Installing the Wazuh server step by step](https://documentation.wazuh.com/current/installation-guide/wazuh-server/step-by-step.html) ).
+~~Or, follow the official step-by-step guide ( [Installing the Wazuh server step by step](https://documentation.wazuh.com/current/installation-guide/wazuh-server/step-by-step.html) ).
 However, the guide misses the part to run `wazuh-certs-tool.sh` in order to
-obtain `wazuh-certificates.tar`.
+obtain `wazuh-certificates.tar`.~~
+
+(Edit on 08/12/2023)
+Or, follow the official step-by-step guides that is structured with three parts:
+
+- [Installing Wazuh Indexer Step by Step ](https://documentation.wazuh.com/current/installation-guide/wazuh-indexer/step-by-step.html)
+- [Installing Wazuh Server Step by Step](https://documentation.wazuh.com/current/installation-guide/wazuh-server/step-by-step.html)
+- [Installing Wazuh Dashboard Step by Step](https://documentation.wazuh.com/current/installation-guide/wazuh-dashboard/step-by-step.html)
+
+`wazuh-certificates.tar`, generated with Wazuh Indexer installation, will be used for Wazuh Server installation.
 
 After the setup, you are now able to access the dashboard via
 `https://127.0.0.1`. Use the given credential to login.
