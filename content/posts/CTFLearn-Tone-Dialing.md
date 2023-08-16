@@ -4,7 +4,7 @@ date: 2023-08-16T10:53:23-07:00
 categories: ["CTF", "blog"]
 ---
 
-- [Problem link](https://ctflearn.com/challenge/889)
+- [Problem here](https://ctflearn.com/challenge/889)
 
 This problem consists of two parts:
 - Obtain the code from wav file

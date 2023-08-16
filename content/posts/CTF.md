@@ -5,7 +5,10 @@ categories: ["CTF"]
 weight: 5
 ---
 
-## CTF Learn
+## CTFLearn
 
 [Profile](https://ctflearn.com/user/imunolion)
-- [Tone Dialing]({{< ref CTFLearn-Tone-Dialing >}}): 08/16/2023
+
+Writeups:
+- [Tone Dialing]({{< ref CTFLearn-Tone-Dialing >}}): Solved 08/16/2023
+- [Programming A Language]({{< ref CTFLearn-Programming-A-Language >}}): Solved 08/16/2023
