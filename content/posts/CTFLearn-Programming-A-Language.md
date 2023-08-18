@@ -79,3 +79,13 @@ def main(argv, arc):
 if __name__ == '__main__':
     main(sys.argv, len(sys.argv))
 ```
+
+## Takeaways
+
+This is an quintessential problem to building a stack machine. First I thought I
+should write it in Scala because it would make the code clearer with (1) case
+class will comply to the BNF, (2) the parser combinator will help DSL
+construction with the separation of instructions and parser.
+
+I tried Python this time for a practice. It is not easy to make the program code
+clean, though it seems much shorter than what I will do in Scala.

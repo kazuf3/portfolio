@@ -28,13 +28,34 @@ categories: ["cybersecurity", "portfolio"]
 [File handling in Python]({{< ref "algorithm-for-file-update-in-python" >}})
 : Using Python to maintain a security related file (allow-list_
 
+## How-to articles
+
+Wazuh XDR and SIEM
+
+[Zero Cost Home Cybersecurity with WSL2 and Wazuh]({{< ref zero-cost-home-security >}})
+: Setting up Wazuh with WSL2
+
+[Improving Security Posture With Wazuh]({{< ref improving-security-posture-with-wazuh >}})
+: How to use CIS on Wazuh
+
 ## CTF Challenges
 
 ### CTFLearn
 
 [Profile](https://ctflearn.com/user/imunolion)
 
-Writeups:
+#### Selective Writeups
+
+Cryptgraphy
+: 
 - [Tone Dialing]({{< ref CTFLearn-Tone-Dialing >}}): Solved 08/16/2023
+
+Programming
+: 
 - [Programming A Language]({{< ref CTFLearn-Programming-A-Language >}}): Solved 08/16/2023
-- [CTFLearn AndhraPradesh]({{< ref CTFLearn-AndhraPradesh >}}): Solved 08/17/2023
+- [AndhraPradesh]({{< ref CTFLearn-AndhraPradesh >}}): Solved 08/17/2023
+- [Impossible Equation]({{< ref CTFLearn-Impossible-Equation >}}): Solved 08/18/2023
+
+Reverse Engineering
+: 
+- [Reykjavik]({{< ref CTFLearn-Reykjavik >}}): Solved 08/18/2023

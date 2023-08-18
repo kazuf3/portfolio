@@ -183,3 +183,11 @@ The correct values are:
     con4 db 00ADh   ; this form for hex constants is popular among assembly language programmers
     con5 db 00BAh
 ```
+
+## Takeaways
+
+This is a good problem for assembly beginners. The thinking process is similar
+to ordinary debugging but in a low-level.
+
+Also, the way of using registers are unique technique. Same bits may have
+different name and we have to think which is higher and which is lower bits.

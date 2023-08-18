@@ -45,3 +45,11 @@ convert them into ascii encoded string.
 $ printf '%x' 67 84 70 108 101 97 110 123 67 82 89 80 84 79 71 82 65 80 72 89 125 | xxd -r -p
 CTFlean{CRYPTOGRAPHY}%
 ```
+
+## Takeaways
+
+It is interesting how the problem author embedded information into an audio
+file. It requires me to not only finding the tool to decode but also look at
+(listen to) the original input. I heard a lot that it is important to have
+"attention to detail" in cybersecurity domain. This is the good example. This
+problem has also helped me to write xxd one-liners.
