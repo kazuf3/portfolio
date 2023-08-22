@@ -66,4 +66,4 @@ difficult to walk through the assembly code for the full length.
 It is my first time to use Cutter. The decompiled code in C requires some
 trainings to be able to read. After the submission, there were some comments
 said we should follow the `rsp` register. I have no idea why `rsp` register here
-because `strcmp` implementation seems cupsulated.
+because `strcmp` implementation seems capsulated.
