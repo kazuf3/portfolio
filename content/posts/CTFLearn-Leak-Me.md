@@ -4,6 +4,8 @@ date: 2023-08-22T16:00:42-07:00
 categories: ["CTF", "blog"]
 ---
 
+A problem to exploit the stack with format string attack.
+
 - [Problem link](https://ctflearn.com/challenge/1221)
 
 When I access the program, it

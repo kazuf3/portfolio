@@ -50,6 +50,7 @@ Cryptgraphy
 : 
 - [Tone Dialing]({{< ref CTFLearn-Tone-Dialing >}}): Solved 08/16/2023
 - [Substitution Cipher]({{< ref CTFLearn-Substitution-Cipher >}}): Solved 08/24/2024
+- [RSA Beginner]({{< ref CTFLearn-RSABeginner >}}): Solved 08/25/2024
 
 Programming
 : 

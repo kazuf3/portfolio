@@ -4,6 +4,8 @@ date: 2023-08-16T10:53:23-07:00
 categories: ["CTF", "blog"]
 ---
 
+A problem that encodes the flag into wave file.
+
 - [Problem here](https://ctflearn.com/challenge/889)
 
 This problem consists of two parts:

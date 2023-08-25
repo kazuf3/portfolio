@@ -5,6 +5,8 @@ categories: ["CTF", "blog"]
 math: true
 ---
 
+A problem to exploit the input guard using math.
+
 - [Problem link](https://ctflearn.com/challenge/1234)
 
 The problem statement is:

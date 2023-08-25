@@ -4,6 +4,8 @@ date: 2023-08-16T15:46:18-07:00
 categories: ["CTF", "blog"]
 ---
 
+A problem to implement a stack machine.
+
 - [Problem here](https://ctflearn.com/challenge/1050)
 
 This problem asks to program a stack machine.

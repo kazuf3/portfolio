@@ -4,6 +4,8 @@ date: 2023-08-24T01:38:00-07:00
 categories: ["CTF", "blog"]
 ---
 
+A problem to solve substitution cipher, which as *Dancing Man* by Sir Authur Conan Doyle.
+
 - [Problem link](https://ctflearn.com/challenge/238)
 
 The given encrypted text is:
