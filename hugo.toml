@@ -19,7 +19,7 @@ env = "production"
 title = "ExampleSite"
 description = "ExampleSite description"
 keywords = [ "Blog", "Portfolio", "PaperMod" ]
-author = "Me"
+author = "Kazuhiro Funakoshi"
 images = [ "<link or path of image for opengraph, twitter-cards>" ]
 DateFormat = "January 2, 2006"
 defaultTheme = "auto"
@@ -61,11 +61,22 @@ tocopen = false
 
   [params.homeInfoParams]
   Title = "Hi there 👋"
-  Content = "Welcome to my portfolio"
+
+  Content = """Welcome to Kazuhiro Funakoshi's cybersecurity portfolio site.
+  Please find [Cyber Security Portfolio Index]({{< ref
+  Cyber-Security-Portfolio-Index >}}). Feel free to connect me via
+  [LinkedIn](https://linkedin.com/in/kazuf3).
+
+"""
 
   [[params.socialIcons]]
   name = "github"
   url = "https://github.com/kazuf3"
+
+  [[params.socialIcons]]
+  name = "linkedin"
+  url = "https://linkedin.com/in/kazuf3"
+
 
   [params.cover]
   hidden = true
@@ -91,12 +102,6 @@ identifier = "categories"
 name = "categories"
 url = "/categories/"
 weight = 10
-
-[[menu.main]]
-identifier = "tags"
-name = "tags"
-url = "/tags/"
-weight = 20
 
 [markup.highlight]
 noClasses = false
