@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Incident Report on My Portfolio</title>
+    <link>https://kazuf3.nicheapplab.com/categories/incident-report/</link>
+    <description>Recent content in Incident Report on My Portfolio</description>
+    <image>
+      <title>My Portfolio</title>
+      <url>https://kazuf3.nicheapplab.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://kazuf3.nicheapplab.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 18 Jul 2023 11:00:53 -0700</lastBuildDate>
+    <atom:link href="https://kazuf3.nicheapplab.com/categories/incident-report/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Incident Report</title>
+      <link>https://kazuf3.nicheapplab.com/posts/incident-report/</link>
+      <pubDate>Tue, 18 Jul 2023 11:00:53 -0700</pubDate>
+      <guid>https://kazuf3.nicheapplab.com/posts/incident-report/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://kazuf3.nicheapplab.com/posts/cyber-security-portfolio-index/&#34;&gt;Back to index&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#project-setup&#34;&gt;Project Setup&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kazuf3.nicheapplab.com/posts/incident-report-analysis/&#34;&gt;Incident Report Analysis&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;project-setup&#34;&gt;Project Setup&lt;/h2&gt;
+&lt;p&gt;Review the scenario below. Then complete the step-by-step instructions.&lt;/p&gt;
+&lt;p&gt;You are a cybersecurity analyst working for a multimedia company that offers web design services, graphic design, and social media marketing solutions to small businesses. Your organization recently experienced a DDoS attack, which compromised the internal network for two hours until it was resolved.&lt;/p&gt;
+&lt;p&gt;During the attack, your organization’s network services suddenly stopped responding due to an incoming flood of ICMP packets. Normal internal network traffic could not access any network resources. The incident management team responded by blocking incoming ICMP packets, stopping all non-critical network services offline, and restoring critical network services.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Incident Report Analysis</title>
+      <link>https://kazuf3.nicheapplab.com/posts/incident-report-analysis/</link>
+      <pubDate>Tue, 18 Jul 2023 10:55:20 -0700</pubDate>
+      <guid>https://kazuf3.nicheapplab.com/posts/incident-report-analysis/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://kazuf3.nicheapplab.com/posts/incident-report/&#34;&gt;Back to incident report&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;incident-report-analysis&#34;&gt;Incident report analysis&lt;/h1&gt;
+&lt;h2 id=&#34;instructions&#34;&gt;Instructions&lt;/h2&gt;
+&lt;p&gt;As you continue through this course, you may use this template to record your findings after completing an activity or to take notes on what you&amp;rsquo;ve learned about a specific tool or concept. You can also use this chart as a way to practice applying the NIST framework to different situations you encounter.&lt;/p&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;The organization recently experienced a DDoS attack, which compromised the
+internal network for two hours until it was resolved.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

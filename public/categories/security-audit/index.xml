@@ -1,73 +1,174 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>security-audit on My Portfolio</title>
-    <link>http://kazuf3.github.io/portfolio/categories/security-audit/</link>
-    <description>Recent content in security-audit on My Portfolio</description>
+    <title>Security Audit on My Portfolio</title>
+    <link>https://kazuf3.nicheapplab.com/categories/security-audit/</link>
+    <description>Recent content in Security Audit on My Portfolio</description>
     <image>
       <title>My Portfolio</title>
-      <url>http://kazuf3.github.io/portfolio/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://kazuf3.github.io/portfolio/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://kazuf3.nicheapplab.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://kazuf3.nicheapplab.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 Jul 2023 21:04:23 -0700</lastBuildDate><atom:link href="http://kazuf3.github.io/portfolio/categories/security-audit/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Cyber Security Portfolio Index</title>
-      <link>http://kazuf3.github.io/portfolio/posts/cyber-security-portfolio-index/</link>
-      <pubDate>Mon, 17 Jul 2023 20:19:48 -0700</pubDate>
-      
-      <guid>http://kazuf3.github.io/portfolio/posts/cyber-security-portfolio-index/</guid>
-      <description> Security Audit </description>
-    </item>
-    
+    <lastBuildDate>Mon, 17 Jul 2023 21:04:23 -0700</lastBuildDate>
+    <atom:link href="https://kazuf3.nicheapplab.com/categories/security-audit/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Security Audit</title>
-      <link>http://kazuf3.github.io/portfolio/posts/security-audit/</link>
+      <link>https://kazuf3.nicheapplab.com/posts/security-audit/</link>
       <pubDate>Mon, 17 Jul 2023 20:21:09 -0700</pubDate>
-      
-      <guid>http://kazuf3.github.io/portfolio/posts/security-audit/</guid>
-      <description>This portfolio project is to perform a security audit of an organization.
-Project Setup Controls assessment Compliance checklist Stakeholder memorandum Project Setup Summary Perform an audit of Botium Toys’ cybersecurity program. The audit needs to align current business practices with industry standards and best practices. The audit is meant to provide mitigation recommendations for vulnerabilities found that are classified as “high risk,” and present an overall strategy for improving the security posture of the organization.</description>
+      <guid>https://kazuf3.nicheapplab.com/posts/security-audit/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://kazuf3.nicheapplab.com/posts/cyber-security-portfolio-index/&#34;&gt;Back to index&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#project-setup&#34;&gt;Project Setup&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kazuf3.nicheapplab.com/posts/controls-assessment/&#34;&gt;Controls assessment&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kazuf3.nicheapplab.com/posts/compliance-checklist/&#34;&gt;Compliance checklist&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kazuf3.nicheapplab.com/posts/stakeholder-memorandum/&#34;&gt;Stakeholder memorandum&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;project-setup&#34;&gt;Project Setup&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;Perform an audit of Botium Toys’ cybersecurity program. The audit
+needs to align current business practices with industry standards and best
+practices. The audit is meant to provide mitigation recommendations for
+vulnerabilities found that are classified as “high risk,” and present an
+overall strategy for improving the security posture of the organization. The
+audit team needs to document their findings, provide remediation plans and
+efforts, and communicate with stakeholders.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Stakeholder Memorandum</title>
-      <link>http://kazuf3.github.io/portfolio/posts/stakeholder-memorandum/</link>
+      <link>https://kazuf3.nicheapplab.com/posts/stakeholder-memorandum/</link>
       <pubDate>Mon, 17 Jul 2023 21:04:23 -0700</pubDate>
-      
-      <guid>http://kazuf3.github.io/portfolio/posts/stakeholder-memorandum/</guid>
-      <description>Back to Security Audit
-Stakeholder memorandum TO: IT Manager, Stakeholders
-FROM: Kazuhiro Funakoshi
-DATE: 07/13/2023
-SUBJECT: Internal IT Audit Findings and Recommendations
-Dear Colleagues,
-Please review the following information regarding the Botium Toys internal audit scope, goals, critical findings, summary and recommendations.
-Scope The following systems are in scope: accounting, endpoint detection, firewalls, intrusion detection system, security information and event management (SIEM) tool.
-Ensure current user permissions, controls, procedures, and protocols in place align with necessary compliance requirements.</description>
+      <guid>https://kazuf3.nicheapplab.com/posts/stakeholder-memorandum/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://kazuf3.nicheapplab.com/posts/security-audit/&#34;&gt;Back to Security Audit&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;stakeholder-memorandum&#34;&gt;Stakeholder memorandum&lt;/h1&gt;
+&lt;p&gt;TO: IT Manager, Stakeholders&lt;br&gt;
+FROM: Kazuhiro Funakoshi&lt;br&gt;
+DATE: 07/13/2023&lt;br&gt;
+SUBJECT: Internal IT Audit Findings and Recommendations&lt;/p&gt;
+&lt;p&gt;Dear Colleagues,&lt;/p&gt;
+&lt;p&gt;Please review the following information regarding the Botium Toys internal audit scope, goals, critical findings, summary and recommendations.&lt;/p&gt;
+&lt;h2 id=&#34;scope&#34;&gt;Scope&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;The following systems are in scope: accounting, endpoint detection, firewalls,
+intrusion detection system, security information and event management (SIEM)
+tool.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Ensure current user permissions, controls, procedures, and protocols in
+place align with necessary compliance requirements.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Compliance Checklist</title>
-      <link>http://kazuf3.github.io/portfolio/posts/compliance-checklist/</link>
+      <link>https://kazuf3.nicheapplab.com/posts/compliance-checklist/</link>
       <pubDate>Mon, 17 Jul 2023 21:00:47 -0700</pubDate>
-      
-      <guid>http://kazuf3.github.io/portfolio/posts/compliance-checklist/</guid>
-      <description>Back to Security Audit
-[ ] The Federal Energy Regulatory Commission - North American Electric Reliability Corporation (FERC-NERC) The FERC-NERC regulation applies to organizations that work with electricity or that are involved with the U.S. and North American power grid. Organizations have an obligation to prepare for, mitigate, and report any potential security incident that can negatively affect the power grid. Organizations are legally required to adhere to the Critical Infrastructure Protection Reliability Standards (CIP) defined by the FERC.</description>
+      <guid>https://kazuf3.nicheapplab.com/posts/compliance-checklist/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://kazuf3.nicheapplab.com/posts/security-audit/&#34;&gt;Back to Security Audit&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;--the-federal-energy-regulatory-commission---north-american-electric-reliability-corporation-ferc-nerc&#34;&gt;[ ] The Federal Energy Regulatory Commission - North American Electric Reliability Corporation (FERC-NERC)&lt;/h2&gt;
+&lt;p&gt;The FERC-NERC regulation applies to organizations that work with electricity or
+that are involved with the U.S. and North American power grid. Organizations
+have an obligation to prepare for, mitigate, and report any potential security
+incident that can negatively affect the power grid. Organizations are legally
+required to adhere to the Critical Infrastructure Protection Reliability
+Standards (CIP) defined by the FERC.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Controls Assessment</title>
-      <link>http://kazuf3.github.io/portfolio/posts/controls-assessment/</link>
+      <link>https://kazuf3.nicheapplab.com/posts/controls-assessment/</link>
       <pubDate>Mon, 17 Jul 2023 20:52:21 -0700</pubDate>
-      
-      <guid>http://kazuf3.github.io/portfolio/posts/controls-assessment/</guid>
-      <description>Back to Security Audit
-Controls Assessment Current assets Assets managed by the IT Department include:
-On-premises equipment for in-office business needs Employee equipment: end-user devices (desktops/laptops, smartphones), remote workstations, headsets, cables, keyboards, mice, docking stations, surveillance cameras, etc. Management of systems, software, and services: accounting, telecommunication, database, security, ecommerce, and inventory management Internet access Internal network Vendor access management Data center hosting services Data retention and storage Badge readers Legacy system maintenance: end-of-life systems that require human monitoring Administrative Controls Least Priviledge Needs to be implemented; High</description>
+      <guid>https://kazuf3.nicheapplab.com/posts/controls-assessment/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://kazuf3.nicheapplab.com/posts/security-audit/&#34;&gt;Back to Security Audit&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;controls-assessment&#34;&gt;Controls Assessment&lt;/h1&gt;
+&lt;h2 id=&#34;current-assets&#34;&gt;Current assets&lt;/h2&gt;
+&lt;p&gt;Assets managed by the IT Department include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;On-premises equipment for in-office business needs&lt;/li&gt;
+&lt;li&gt;Employee equipment: end-user devices (desktops/laptops, smartphones), remote workstations, headsets, cables, keyboards, mice, docking stations, surveillance cameras, etc.&lt;/li&gt;
+&lt;li&gt;Management of systems, software, and services: accounting, telecommunication, database, security, ecommerce, and inventory management&lt;/li&gt;
+&lt;li&gt;Internet access&lt;/li&gt;
+&lt;li&gt;Internal network&lt;/li&gt;
+&lt;li&gt;Vendor access management&lt;/li&gt;
+&lt;li&gt;Data center hosting services&lt;/li&gt;
+&lt;li&gt;Data retention and storage&lt;/li&gt;
+&lt;li&gt;Badge readers&lt;/li&gt;
+&lt;li&gt;Legacy system maintenance: end-of-life systems that require human monitoring&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;administrative-controls&#34;&gt;Administrative Controls&lt;/h2&gt;
+&lt;dl&gt;
+&lt;dt&gt;Least Priviledge&lt;/dt&gt;
+&lt;dd&gt;&lt;strong&gt;Needs to be implemented; High&lt;/strong&gt;&lt;br&gt;
+Preventative; reduces risk by making sure vendors and non-authorized staff
+only have access to the assets/data they need to do their jobs&lt;/dd&gt;
+&lt;dt&gt;Disaster recovery plans&lt;/dt&gt;
+&lt;dd&gt;&lt;strong&gt;Needs to be implemented; Medium&lt;/strong&gt;&lt;br&gt;
+Corrective; business continuity to ensure systems are able to run in the event
+of an incident/there is limited to no loss of productivity downtime/impact to
+system components, including: computer room environment (air conditioning,
+power supply, etc.); hardware (servers, employee equipment); connectivity
+(internal network, wireless); applications (email, electronic data); data and
+restoration&lt;/dd&gt;
+&lt;dt&gt;Password policies&lt;/dt&gt;
+&lt;dd&gt;&lt;strong&gt;Needs to be implemented; Medium&lt;/strong&gt;&lt;br&gt;
+Preventative; establish password strength rules to improve security/reduce
+likelihood of account compromise through brute force or dictionary attack
+techniques&lt;/dd&gt;
+&lt;dt&gt;Access control policies&lt;/dt&gt;
+&lt;dd&gt;&lt;strong&gt;Needs to be implemented; High&lt;/strong&gt;&lt;br&gt;
+Preventative; increase confidentiality and integrity of data&lt;/dd&gt;
+&lt;dt&gt;Account management policies&lt;/dt&gt;
+&lt;dd&gt;&lt;strong&gt;Needs to be implemented; High&lt;/strong&gt;&lt;br&gt;
+Preventative; reduce attack surface and limit overall impact from disgruntled/former employees&lt;/dd&gt;
+&lt;dt&gt;Separation of duties&lt;/dt&gt;
+&lt;dd&gt;&lt;strong&gt;Needs to be implemented; High&lt;/strong&gt;&lt;br&gt;
+Preventative; ensure no one has so much access that they can abuse the system for personal gain&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;h2 id=&#34;technical-controls&#34;&gt;Technical Controls&lt;/h2&gt;
+&lt;dl&gt;
+&lt;dt&gt;Firewall&lt;/dt&gt;
+&lt;dd&gt;Preventative; firewalls are already in place to filter unwanted/malicious traffic from entering internal network&lt;/dd&gt;
+&lt;dt&gt;Intrusion Detection System (IDS)&lt;/dt&gt;
+&lt;dd&gt;Detective; allows IT team to identify possible intrusions (e.g., anomalous traffic) quickly&lt;/dd&gt;
+&lt;dt&gt;Encryption&lt;/dt&gt;
+&lt;dd&gt;&lt;strong&gt;Needs to be implemented; Medium&lt;/strong&gt;&lt;br&gt;
+Deterrent; makes confidential information/data more secure (e.g., website payment transactions)&lt;/dd&gt;
+&lt;dt&gt;Backups&lt;/dt&gt;
+&lt;dd&gt;&lt;strong&gt;Needs to be implemented; Medium&lt;/strong&gt;&lt;br&gt;
+Corrective; supports ongoing productivity in the case of an event; aligns to the disaster recovery plan&lt;/dd&gt;
+&lt;dt&gt;Password management system&lt;/dt&gt;
+&lt;dd&gt;&lt;strong&gt;Needs to be implemented; Medium&lt;/strong&gt;&lt;br&gt;
+Corrective; password recovery, reset, lock out notifications&lt;/dd&gt;
+&lt;dt&gt;Antivirus (AV) software&lt;/dt&gt;
+&lt;dd&gt;&lt;strong&gt;Needs to be implemented; High&lt;/strong&gt;&lt;br&gt;
+Corrective; detect and quarantine known threats&lt;/dd&gt;
+&lt;dt&gt;Manual monitoring, maintenance, and intervention&lt;/dt&gt;
+&lt;dd&gt;&lt;strong&gt;Needs to be implemented; Medium&lt;/strong&gt;&lt;br&gt;
+Preventative/corrective; required for legacy systems to identify and mitigate potential threats, risks, and vulnerabilities&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;h2 id=&#34;physical-controls&#34;&gt;Physical Controls&lt;/h2&gt;
+&lt;dl&gt;
+&lt;dt&gt;Time-controlled safe&lt;/dt&gt;
+&lt;dd&gt;&lt;strong&gt;Needs to be implemented; Low&lt;/strong&gt;&lt;br&gt;
+Deterrent; reduce attack surface/impact of physical threats&lt;/dd&gt;
+&lt;dt&gt;Adequate lighting&lt;/dt&gt;
+&lt;dd&gt;&lt;strong&gt;Needs to be implemented; Low&lt;/strong&gt;&lt;br&gt;
+Deterrent; limit “hiding” places to deter threats&lt;/dd&gt;
+&lt;dt&gt;Closed-circuit television (CCTV) surveillance&lt;/dt&gt;
+&lt;dd&gt;&lt;strong&gt;Needs to be implemented; High&lt;/strong&gt;&lt;br&gt;
+Preventative/detective; can reduce risk of certain events; can be used after event for investigation&lt;/dd&gt;
+&lt;dt&gt;Locking cabinets (for network gear)&lt;/dt&gt;
+&lt;dd&gt;&lt;strong&gt;Needs to be implemented; High&lt;/strong&gt;&lt;br&gt;
+Preventative; increase integrity by preventing unauthorized personnel/individuals from physically accessing/modifying network infrastructure gear&lt;/dd&gt;
+&lt;dt&gt;Signage indicating alarm service provider&lt;/dt&gt;
+&lt;dd&gt;&lt;strong&gt;Needs to be implemented; Low&lt;/strong&gt;&lt;br&gt;
+Deterrent; makes the likelihood of a successful attack seem low&lt;/dd&gt;
+&lt;dt&gt;Locks&lt;/dt&gt;
+&lt;dd&gt;&lt;strong&gt;Needs to be implemented; Low&lt;/strong&gt;&lt;br&gt;
+Preventative; physical and digital assets are more secure&lt;/dd&gt;
+&lt;dt&gt;Fire detection and prevention (fire alarm, sprinkler system, etc.)&lt;/dt&gt;
+&lt;dd&gt;&lt;strong&gt;Needs to be implemented; High&lt;/strong&gt;&lt;br&gt;
+Detective/Preventative; detect fire in the toy store’s physical location to prevent damage to inventory, servers, etc.&lt;/dd&gt;
+&lt;/dl&gt;</description>
     </item>
-    
   </channel>
 </rss>

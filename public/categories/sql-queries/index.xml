@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>SQL Queries on My Portfolio</title>
+    <link>https://kazuf3.nicheapplab.com/categories/sql-queries/</link>
+    <description>Recent content in SQL Queries on My Portfolio</description>
+    <image>
+      <title>My Portfolio</title>
+      <url>https://kazuf3.nicheapplab.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://kazuf3.nicheapplab.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 18 Jul 2023 18:39:54 -0700</lastBuildDate>
+    <atom:link href="https://kazuf3.nicheapplab.com/categories/sql-queries/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SQL Queries</title>
+      <link>https://kazuf3.nicheapplab.com/posts/sql-queries/</link>
+      <pubDate>Tue, 18 Jul 2023 18:05:51 -0700</pubDate>
+      <guid>https://kazuf3.nicheapplab.com/posts/sql-queries/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://kazuf3.nicheapplab.com/posts/cyber-security-portfolio-index/&#34;&gt;Back to index&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#scenario&#34;&gt;Scenario(given)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kazuf3.nicheapplab.com/posts/apply-filters-to-sql-queries/&#34;&gt;Apply filters to SQL queries&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;scenario&#34;&gt;Scenario&lt;/h2&gt;
+&lt;p&gt;You are a security professional at a large organization. Part of your job is to
+investigate security issues to help keep the system secure. You recently
+discovered some potential security issues that involve login attempts and
+employee machines.&lt;/p&gt;
+&lt;p&gt;Your task is to examine the organization’s data in their employees and
+log_in_attempts tables. You’ll need to use SQL filters to retrieve records from
+different datasets and investigate the potential security issues.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Apply Filters to SQL Queries</title>
+      <link>https://kazuf3.nicheapplab.com/posts/apply-filters-to-sql-queries/</link>
+      <pubDate>Tue, 18 Jul 2023 18:39:54 -0700</pubDate>
+      <guid>https://kazuf3.nicheapplab.com/posts/apply-filters-to-sql-queries/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://kazuf3.nicheapplab.com/posts/sql-queries/&#34;&gt;Back to SQL Queries&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;project-description&#34;&gt;Project description&lt;/h2&gt;
+&lt;p&gt;This project is for investigating security issues to help keep the system
+secure. Based on findings that some potential security issues involve login
+attempts and employee machines. We use SQL filters to retrieve records from
+different datasets and investigate potential security issues.&lt;/p&gt;
+&lt;h2 id=&#34;retrieve-after-hours-failed-login-attempts&#34;&gt;Retrieve after hours failed login attempts&lt;/h2&gt;
+&lt;p&gt;In order to list all after-hours failed logins, which are suspicious in this
+case, we performed a SQL query as follows. Since hour regular hour ends at
+18:00:00, we set the condition accordingly.
+&lt;img alt=&#34;image1&#34; loading=&#34;lazy&#34; src=&#34;https://kazuf3.nicheapplab.com/posts/apply-filters-to-sql-queries/images/image1.png&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

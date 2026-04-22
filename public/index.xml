@@ -2,72 +2,816 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>My Portfolio</title>
-    <link>http://kazuf3.github.io/portfolio/</link>
+    <link>https://kazuf3.nicheapplab.com/</link>
     <description>Recent content on My Portfolio</description>
     <image>
       <title>My Portfolio</title>
-      <url>http://kazuf3.github.io/portfolio/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://kazuf3.github.io/portfolio/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://kazuf3.nicheapplab.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://kazuf3.nicheapplab.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 Jul 2023 21:04:23 -0700</lastBuildDate><atom:link href="http://kazuf3.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 25 Aug 2023 10:40:22 -0700</lastBuildDate>
+    <atom:link href="https://kazuf3.nicheapplab.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cyber Security Portfolio Index</title>
-      <link>http://kazuf3.github.io/portfolio/posts/cyber-security-portfolio-index/</link>
+      <link>https://kazuf3.nicheapplab.com/posts/cyber-security-portfolio-index/</link>
       <pubDate>Mon, 17 Jul 2023 20:19:48 -0700</pubDate>
-      
-      <guid>http://kazuf3.github.io/portfolio/posts/cyber-security-portfolio-index/</guid>
-      <description> Security Audit </description>
+      <guid>https://kazuf3.nicheapplab.com/posts/cyber-security-portfolio-index/</guid>
+      <description>&lt;h2 id=&#34;google-cybersecurity-professional-course&#34;&gt;Google Cybersecurity Professional Course&lt;/h2&gt;
+&lt;dl&gt;
+&lt;dt&gt;&lt;a href=&#34;https://kazuf3.nicheapplab.com/posts/security-audit/&#34;&gt;Security Audit&lt;/a&gt;&lt;/dt&gt;
+&lt;dd&gt;Conduct a security audit&lt;/dd&gt;
+&lt;dt&gt;&lt;a href=&#34;https://kazuf3.nicheapplab.com/posts/incident-report/&#34;&gt;Incident Report&lt;/a&gt;&lt;/dt&gt;
+&lt;dd&gt;Use the NIST Cybersecurity Framework to respond to a security incident&lt;/dd&gt;
+&lt;dt&gt;&lt;a href=&#34;https://kazuf3.nicheapplab.com/posts/linux-commands/&#34;&gt;Linux Commands&lt;/a&gt;&lt;/dt&gt;
+&lt;dd&gt;Use Linux commands to manage file permissions&lt;/dd&gt;
+&lt;dt&gt;&lt;a href=&#34;https://kazuf3.nicheapplab.com/posts/sql-queries/&#34;&gt;SQL Queries&lt;/a&gt;&lt;/dt&gt;
+&lt;dd&gt;Apply filters to SQL queries&lt;/dd&gt;
+&lt;dt&gt;&lt;a href=&#34;https://kazuf3.nicheapplab.com/posts/vulnerability-assessment/&#34;&gt;Vulnerability Assessment&lt;/a&gt;&lt;/dt&gt;
+&lt;dd&gt;Conduct a vulnerability assessment based on NIST SP-800-30&lt;/dd&gt;
+&lt;dt&gt;&lt;a href=&#34;https://kazuf3.nicheapplab.com/posts/incident-handlers-journal/&#34;&gt;Incident Handler&amp;rsquo;s Journal&lt;/a&gt;&lt;/dt&gt;
+&lt;dd&gt;Documenting of incident responses&lt;/dd&gt;
+&lt;dt&gt;&lt;a href=&#34;https://kazuf3.nicheapplab.com/posts/algorithm-for-file-update-in-python/&#34;&gt;File handling in Python&lt;/a&gt;&lt;/dt&gt;
+&lt;dd&gt;Using Python to maintain a security related file (allow-list_&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;h2 id=&#34;how-to-articles&#34;&gt;How-to articles&lt;/h2&gt;
+&lt;p&gt;Wazuh XDR and SIEM&lt;/p&gt;</description>
     </item>
-    
+    <item>
+      <title>Improving Security Posture With Wazuh</title>
+      <link>https://kazuf3.nicheapplab.com/posts/improving-security-posture-with-wazuh/</link>
+      <pubDate>Sat, 12 Aug 2023 09:36:19 -0700</pubDate>
+      <guid>https://kazuf3.nicheapplab.com/posts/improving-security-posture-with-wazuh/</guid>
+      <description>&lt;p&gt;This post is continued from previous entry, &lt;a href=&#34;https://kazuf3.nicheapplab.com/posts/zero-cost-home-security/&#34;&gt;Zero Cost Home Cybersecurity with
+WSL2 and Wazuh&lt;/a&gt;.
+We have installed Wazuh service on WSL2 and its agent on Windows.
+Now we are able to see various suggestions from the scan result.&lt;/p&gt;
+&lt;h2 id=&#34;where-we-are&#34;&gt;Where we are&lt;/h2&gt;
+&lt;p&gt;First, we want to know where we are. NIST Cybersecurity Framework defines
+following 5 steps to improve security posture. We want to address each steps
+with the activity with Wazuh.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Zero Cost Home Cybersecurity with WSL2 and Wazuh</title>
+      <link>https://kazuf3.nicheapplab.com/posts/zero-cost-home-security/</link>
+      <pubDate>Fri, 11 Aug 2023 10:01:43 -0700</pubDate>
+      <guid>https://kazuf3.nicheapplab.com/posts/zero-cost-home-security/</guid>
+      <description>&lt;p&gt;There are many cybersecurity solutions for home usage in combination with
+endpoint security and network intrusion detection or prevention systems. Some of
+them are software packages such as McAfee and others may be provided by your
+ISP, such as Xfinity xFi Advanced Security which comes with ISP-specific
+hardware. However, it is unclear to the end users what they do, and sometimes
+pricy.&lt;/p&gt;
+&lt;p&gt;It is also common to network enthusiasts to set up a white-box approach with
+plenty of hardware equipment for a home cybersecurity stack. For example, there
+are many YouTube videos about how to set up a router to mirror all the traffic
+into IDS in a virtual machine, so that all network traffic can be monitored.
+However, in my humble opinion, hosting a VM that can monitor all the network
+traffic in and out is a very much luxury for most people.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Algorithm for File Update in Python</title>
+      <link>https://kazuf3.nicheapplab.com/posts/algorithm-for-file-update-in-python/</link>
+      <pubDate>Wed, 26 Jul 2023 10:16:50 -0700</pubDate>
+      <guid>https://kazuf3.nicheapplab.com/posts/algorithm-for-file-update-in-python/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://kazuf3.nicheapplab.com/posts/cyber-security-portfolio-index/&#34;&gt;Back to index&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;project-description&#34;&gt;Project description&lt;/h2&gt;
+&lt;p&gt;This project describes an activity of updating a text file, based on the
+necessity of the business.&lt;/p&gt;
+&lt;p&gt;It is designed for a process to maintain allow-list-based access control list.
+In order to restrict access of unauthorized users, businesses are required to
+review the list and remove access privileges on a need-to basis. With a given
+list of IP addresses, the program will remove them from the allow-list and write
+IP addresses back to the text file.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Incident Handler&#39;s Journal</title>
+      <link>https://kazuf3.nicheapplab.com/posts/incident-handlers-journal/</link>
+      <pubDate>Wed, 26 Jul 2023 09:48:13 -0700</pubDate>
+      <guid>https://kazuf3.nicheapplab.com/posts/incident-handlers-journal/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://kazuf3.nicheapplab.com/posts/cyber-security-portfolio-index/&#34;&gt;Back to index&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#entry-1&#34;&gt;Entry 1&lt;/a&gt;: Analyzing ransomeware incident&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#entry-2&#34;&gt;Entry 2&lt;/a&gt;: Analyzing phishing email&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#entry-3&#34;&gt;Entry 3&lt;/a&gt;: Following up with playbook&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#entry-4&#34;&gt;Entry 4&lt;/a&gt;: Review on incident final report&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#entry-5&#34;&gt;Entry 5&lt;/a&gt;: Using Splunk to analyze malicious logins&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#entry-6&#34;&gt;Entry 6&lt;/a&gt;: Using Chronicle to analyze phishing attempts&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;entry-1&#34;&gt;Entry 1&lt;/h2&gt;
+&lt;p&gt;Date: 07/19/2023&lt;/p&gt;
+&lt;h3 id=&#34;description&#34;&gt;Description&lt;/h3&gt;
+&lt;p&gt;Ransomeware damaged a clinic.&lt;/p&gt;
+&lt;p&gt;A small U.S. health care clinic experienced a security incident on Tuesday at
+9:00 a.m. which severely disrupted their business operations.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Vulnerability Assessment</title>
+      <link>https://kazuf3.nicheapplab.com/posts/vulnerability-assessment/</link>
+      <pubDate>Wed, 26 Jul 2023 09:21:06 -0700</pubDate>
+      <guid>https://kazuf3.nicheapplab.com/posts/vulnerability-assessment/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://kazuf3.nicheapplab.com/posts/cyber-security-portfolio-index/&#34;&gt;Back to index&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#nist-sp-800-30-rev1&#34;&gt; NIST SP 800-30 Rev.1 (given) &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kazuf3.nicheapplab.com/posts/vulnerability-assessment-report/&#34;&gt; Vulnerability Assessment Report &lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;nist-sp-800-30-rev1&#34;&gt;NIST SP 800-30 Rev.1&lt;/h2&gt;
+&lt;h3 id=&#34;guide-to-assessing-risk&#34;&gt;Guide to assessing risk&lt;/h3&gt;
+&lt;p&gt;NIST SP 800-30 is a publication that provides guidance on performing risk
+assessments. It outlines strategies for identifying, analyzing, and remediating
+risks. Organizations use NIST SP 800-30 to gain insights into the potential
+likelihood and severity of risks—helping them make informed decisions about
+allocating resources, implementing controls, and prioritizing remediation
+efforts.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SQL Queries</title>
+      <link>https://kazuf3.nicheapplab.com/posts/sql-queries/</link>
+      <pubDate>Tue, 18 Jul 2023 18:05:51 -0700</pubDate>
+      <guid>https://kazuf3.nicheapplab.com/posts/sql-queries/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://kazuf3.nicheapplab.com/posts/cyber-security-portfolio-index/&#34;&gt;Back to index&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#scenario&#34;&gt;Scenario(given)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kazuf3.nicheapplab.com/posts/apply-filters-to-sql-queries/&#34;&gt;Apply filters to SQL queries&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;scenario&#34;&gt;Scenario&lt;/h2&gt;
+&lt;p&gt;You are a security professional at a large organization. Part of your job is to
+investigate security issues to help keep the system secure. You recently
+discovered some potential security issues that involve login attempts and
+employee machines.&lt;/p&gt;
+&lt;p&gt;Your task is to examine the organization’s data in their employees and
+log_in_attempts tables. You’ll need to use SQL filters to retrieve records from
+different datasets and investigate the potential security issues.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Linux Commands</title>
+      <link>https://kazuf3.nicheapplab.com/posts/linux-commands/</link>
+      <pubDate>Tue, 18 Jul 2023 18:05:44 -0700</pubDate>
+      <guid>https://kazuf3.nicheapplab.com/posts/linux-commands/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://kazuf3.nicheapplab.com/posts/cyber-security-portfolio-index/&#34;&gt;Back to index&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#scenario&#34;&gt;Scenario(given)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#current-file-permissions&#34;&gt;Current file permissions(given)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kazuf3.nicheapplab.com/posts/file-permissions-in-linux/&#34;&gt;File permissions in Linux&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;scenario&#34;&gt;Scenario&lt;/h2&gt;
+&lt;p&gt;You are a security professional at a large organization. You mainly work with
+their research team. Part of your job is to ensure users on this team are
+authorized with the appropriate permissions. This helps keep the system secure.&lt;/p&gt;
+&lt;p&gt;Your task is to examine existing permissions on the file system. You’ll need to
+determine if the permissions match the authorization that should be given. If
+they do not match, you’ll need to modify the permissions to authorize the
+appropriate users and remove any unauthorized access.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Incident Report</title>
+      <link>https://kazuf3.nicheapplab.com/posts/incident-report/</link>
+      <pubDate>Tue, 18 Jul 2023 11:00:53 -0700</pubDate>
+      <guid>https://kazuf3.nicheapplab.com/posts/incident-report/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://kazuf3.nicheapplab.com/posts/cyber-security-portfolio-index/&#34;&gt;Back to index&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#project-setup&#34;&gt;Project Setup&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kazuf3.nicheapplab.com/posts/incident-report-analysis/&#34;&gt;Incident Report Analysis&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;project-setup&#34;&gt;Project Setup&lt;/h2&gt;
+&lt;p&gt;Review the scenario below. Then complete the step-by-step instructions.&lt;/p&gt;
+&lt;p&gt;You are a cybersecurity analyst working for a multimedia company that offers web design services, graphic design, and social media marketing solutions to small businesses. Your organization recently experienced a DDoS attack, which compromised the internal network for two hours until it was resolved.&lt;/p&gt;
+&lt;p&gt;During the attack, your organization’s network services suddenly stopped responding due to an incoming flood of ICMP packets. Normal internal network traffic could not access any network resources. The incident management team responded by blocking incoming ICMP packets, stopping all non-critical network services offline, and restoring critical network services.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Security Audit</title>
-      <link>http://kazuf3.github.io/portfolio/posts/security-audit/</link>
+      <link>https://kazuf3.nicheapplab.com/posts/security-audit/</link>
       <pubDate>Mon, 17 Jul 2023 20:21:09 -0700</pubDate>
-      
-      <guid>http://kazuf3.github.io/portfolio/posts/security-audit/</guid>
-      <description>This portfolio project is to perform a security audit of an organization.
-Project Setup Controls assessment Compliance checklist Stakeholder memorandum Project Setup Summary Perform an audit of Botium Toys’ cybersecurity program. The audit needs to align current business practices with industry standards and best practices. The audit is meant to provide mitigation recommendations for vulnerabilities found that are classified as “high risk,” and present an overall strategy for improving the security posture of the organization.</description>
+      <guid>https://kazuf3.nicheapplab.com/posts/security-audit/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://kazuf3.nicheapplab.com/posts/cyber-security-portfolio-index/&#34;&gt;Back to index&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#project-setup&#34;&gt;Project Setup&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kazuf3.nicheapplab.com/posts/controls-assessment/&#34;&gt;Controls assessment&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kazuf3.nicheapplab.com/posts/compliance-checklist/&#34;&gt;Compliance checklist&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kazuf3.nicheapplab.com/posts/stakeholder-memorandum/&#34;&gt;Stakeholder memorandum&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;project-setup&#34;&gt;Project Setup&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;Perform an audit of Botium Toys’ cybersecurity program. The audit
+needs to align current business practices with industry standards and best
+practices. The audit is meant to provide mitigation recommendations for
+vulnerabilities found that are classified as “high risk,” and present an
+overall strategy for improving the security posture of the organization. The
+audit team needs to document their findings, provide remediation plans and
+efforts, and communicate with stakeholders.&lt;/p&gt;</description>
     </item>
-    
+    <item>
+      <title>CTFLearn RSABeginner</title>
+      <link>https://kazuf3.nicheapplab.com/posts/ctflearn-rsabeginner/</link>
+      <pubDate>Fri, 25 Aug 2023 10:40:22 -0700</pubDate>
+      <guid>https://kazuf3.nicheapplab.com/posts/ctflearn-rsabeginner/</guid>
+      <description>&lt;p&gt;Solve RSA decoding problems when &lt;code&gt;e&lt;/code&gt; is small enough.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://ctflearn.com/challenge/119&#34;&gt;Problem link | RSA Beginner&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;compute-factor-q-and-p&#34;&gt;Compute factor $q$ and $p$&lt;/h2&gt;
+&lt;p&gt;In order to decode RSA, we need to compute $p$ and $q$ as factor of $n$.
+Generally, it requires a lot of computating but we have a good resource: stored
+factor list.&lt;/p&gt;
+&lt;p&gt;Pip package &lt;code&gt;factordb-python&lt;/code&gt; is useful:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;import factordb.factordb import FactorDB
+
+f = FactorDB(n)
+f.connect()
+factors = f.get_factor_list()
+&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;compute-d&#34;&gt;Compute $d$&lt;/h2&gt;
+&lt;p&gt;$d$ is defined using $\phi$:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>CTFLearn Substitution Cipher</title>
+      <link>https://kazuf3.nicheapplab.com/posts/ctflearn-substitution-cipher/</link>
+      <pubDate>Thu, 24 Aug 2023 01:38:00 -0700</pubDate>
+      <guid>https://kazuf3.nicheapplab.com/posts/ctflearn-substitution-cipher/</guid>
+      <description>&lt;p&gt;A problem to solve substitution cipher, which as &lt;em&gt;Dancing Man&lt;/em&gt; by Sir Authur Conan Doyle.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://ctflearn.com/challenge/238&#34;&gt;Problem link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The given encrypted text is:&lt;/p&gt;
+&lt;p&gt;MIT YSAU OL OYGFSBDGRTKFEKBHMGCALSOQTMIOL. UTFTKAMTR ZB DAKQGX EIAOF GY MIT COQOHTROA HAUT GF EASXOF AFR IGZZTL. ZT CTKT SGFU, MIT YSACL GF A 2005 HKTLTFM MODTL MIAF LMADOFA GK A CTTQSB LWFRAB, RTETDZTK 21, 1989 1990, MIT RKTC TROMGKL CAL WHKGGMTR TXTKB CGKSR EAF ZT YGWFR MIT EGFMOFWTR MG CGKQ AM A YAOMIYWS KTHSOTL CITKT IGZZTL, LMBST AOD EASXOF, AMMAEQ ZGMI LORTL MG DAKQL, &amp;ldquo;CIAM RG EGFMKGSSOFU AF AEMWAS ZGAKR ZGVTL OF MIT HKTHAKTFML FADT, OL ODHWSLOXT KADHAUTL OF CIOEI ASCABL KTYTKTFETL MIT HALLCGKR, CIOEI DGFTB, AFR MITB IAR SOMMST YKGFM BAKR IOL YKWLMKAMTR EGSGK WFOJWT AZOSOMB COMI AFR OFROLHTFLAMT YGK MTAEI GMITK LMWROTL, AKT ACAKRL ZARUTL, HWZSOLITR ZTYGKT CTSS AL A YOKT UKGLL HSAFL CTKT GKOUOFASSB EIAKAEMTKL OF MIT LMKOH MG CIOEI LTTD MG OM CITF MTDHTKTR OF AFR IASSGCOFU MITB&amp;rsquo;KT LODHSB RKACOFU OF UOXTL GF&amp;rdquo; HKOFEOHAS LHOMMST ROLMGKM, KTARTKL EGDOEL AKT WLT, CAMMTKLGF MGGQ MCG 16-DGFMIL AYMTK KTLOLMAQTL A DGKT EKTAM RTAS MG EASXOF GYMTF IGZZTL MG ARDOML &amp;ldquo;LSODB, &amp;ldquo;ZWM OM&amp;rsquo;L FADTR A FOUIM GWM LIT OL HGOFM GY FGM LTTF IGZZTL MIT ZGGQL AM MIAM O KTDAOFOFU ZGGQ IADLMTK IWTB AKT AHHTAKAFET: RTETDZTK 6, 1995 DGD&amp;rsquo;L YKADTL GY EASXOF UOXTF A CAUGF, LGDTMODTL MIAM LG OM&amp;rsquo;L YAMITKT&amp;rsquo;L YADOSB FG EAFETSSAMOGFLIOH CAL HKTLTFML YKGD FGXTDZTK 21, 1985 SALM AHHTAK AZLTFET OF AFGMITKCOLT OM IAHHB MG KWF OM YGK MIOL RAR AL &amp;ldquo;A SOMMST MG MGSTKAMT EASXOF&amp;rsquo;L YADOSB RKACF ASDGLM EGDDTFRTR WH ZTOFU HTGHST OFLMAFET, UTM DAKKOTR ZB A RAFET EASXOF&amp;rsquo;L GWMSAFROLOFU MIT FTCLHAHTK GK MAZSGOR FTCLHAHTK ZWLOFTLL LIGC OL GF!&amp;rdquo; AFR LHKOFML GY EIOSRKTF&amp;rsquo;L RAR&amp;rsquo;L YKWLMKAMTR ZB MWKF IWDGK, CAL HWZSOE ROASGU MITKT&amp;rsquo;L FGM DWEI AL &amp;ldquo;&amp;lsquo;94 DGRTKFOLD&amp;rdquo; CAMMTKLGF IAL RTSOUIML GY YAFMALB SOYT CAMMTKLGF LABL LTKXTL AL AF AKMOLML OL RTLMKWEMOGF ZWLOFTLL, LHAETYAKTK GY MIT GHHGKMWFOMOTL BGW ZGMI A MGHOE YGK IOL IGDT MGFUWT-OF-EITTQ HGHWSAK MIAM OM CAL &amp;ldquo;IGF&amp;rdquo; AFR JWAKMTK HAUT DGKT LHAEOGWL EAFETSSAMOGF MIT HAOK AKT ESTAKSB OF HLBEIOE MKAFLDGUKOYOTK&amp;rsquo;L &amp;ldquo;NAH&amp;rdquo; LGWFR TYYTEM BGW MIOFQTK CAMMTKLGF ASLG UKTC OFEKTROZST LHAET ZWBL OF EGDDGFSB CIOST GMITKCOLT OM&amp;rsquo;L FADT OL FGMAZST LMGKBSOFT UAXT MIT GHHGKMWFOMOTL BGW EAFETSSAMOGF MIT &amp;ldquo;EASXOF GYYTK MG DAQT IOD OFEGKKTEM AFLCTKL CAMMTK AKMCGKQ GMITK GYMTF CIOEI OL TXORTFM MG GMITK LMKOH OL MG MITOK WLT GY KWSTL MIAM LIGCF GF LAFROYTK, CIG WLTL A EKGCJWOSS ZT LTTF &amp;ldquo;USWTR&amp;rdquo; MG MIT GFSB HTKL AFR IOL YAMITK LWHHGKM OL SWFEISOFT UAXT MITLT MIOF A BTAK OF DWSMODAMTKOAS AFR GZMAOF GF LAFMALB, IOL WLT, CAMMTKL ROASGUWT OL AF &amp;ldquo;AKMOLM&amp;rsquo;L LMAMWL AL &amp;ldquo;A ROD XOTC OF MIT TLLTFMOASSB MG DAQT IOD LTTD MG OFESWRTR MIAM EASXOF OL AF GRR ROASGUWT DGLM GY MIT ESWZ IAL TVHKTLLOGF GWMLORT AXAOSAZST MG&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>CTFLearn Leak Me</title>
+      <link>https://kazuf3.nicheapplab.com/posts/ctflearn-leak-me/</link>
+      <pubDate>Tue, 22 Aug 2023 16:00:42 -0700</pubDate>
+      <guid>https://kazuf3.nicheapplab.com/posts/ctflearn-leak-me/</guid>
+      <description>&lt;p&gt;A problem to exploit the stack with format string attack.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://ctflearn.com/challenge/1221&#34;&gt;Problem link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;When I access the program, it&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;prompts a question&lt;/li&gt;
+&lt;li&gt;and it takes user input&lt;/li&gt;
+&lt;li&gt;then prints the input&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;$ nc rivit.dev 10003
+What is your favorite format tag? some_text
+some_text
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;The problem comes with the program source code and its binary.&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;#include &amp;lt;stdlib.h&amp;gt;
+#include &amp;lt;stdio.h&amp;gt;
+
+int main() {
+    setvbuf(stdout, NULL, _IONBF, 0);
+    setvbuf(stdin, NULL, _IONBF, 0);
+
+    char flag[64], buffer[64];
+
+    FILE *f = fopen(&amp;#34;./flag.txt&amp;#34;, &amp;#34;rt&amp;#34;);
+    if (f == NULL) {
+        puts(&amp;#34;No flag.txt found, contact an admin&amp;#34;);
+        return 1;
+    }
+
+    fgets(flag, 64, f);
+    fclose(f);
+
+    printf(&amp;#34;What is your favorite format tag? &amp;#34;);
+    fgets(buffer, sizeof(buffer), stdin);
+    printf(buffer);
+
+    return 0;
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Since it takes user input and print, it might be a problem for buffer overflow.
+Let&amp;rsquo;s examine their addresses with Cutter.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>CTFLearn Reykjavik</title>
+      <link>https://kazuf3.nicheapplab.com/posts/ctflearn-reykjavik/</link>
+      <pubDate>Fri, 18 Aug 2023 14:31:08 -0700</pubDate>
+      <guid>https://kazuf3.nicheapplab.com/posts/ctflearn-reykjavik/</guid>
+      <description>&lt;p&gt;A standard problem to find the flag by dynamic reverse engineering a x64 ELF binary.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://ctflearn.com/challenge/990&#34;&gt;Problem link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;With given executable binary, first we want to extract text from it. However,
+all possible text from &lt;code&gt;strings&lt;/code&gt; command are false flags.&lt;/p&gt;
+&lt;p&gt;Let&amp;rsquo;s examine the bahavior of the program. It prompts the usage.&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;$ ./Reykjavik
+Usage: Reykjavik CTFlearn{flag}
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;OK, let&amp;rsquo;s give it an another try.&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;$ ./Reykjavik CTFlearn{flag}
+Welcome to the CTFlearn Reversing Challenge Reykjavik v2: CTFlearn{flag}
+Compile Options: ${CMAKE_CXX_FLAGS} -O0 -fno-stack-protector -mno-sse
+
+Sorry Dude, &amp;#39;CTFlearn{flag}&amp;#39; is not the flag :-(
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;From all the external observation, we can assume the code is something like
+following psuedo code.If the original program is structured like this, we can
+obtain the flag from the memory when it compares with parameters.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>CTFLearn Impossible Equation</title>
+      <link>https://kazuf3.nicheapplab.com/posts/ctflearn-impossible-equation/</link>
+      <pubDate>Fri, 18 Aug 2023 09:44:48 -0700</pubDate>
+      <guid>https://kazuf3.nicheapplab.com/posts/ctflearn-impossible-equation/</guid>
+      <description>&lt;p&gt;A problem to exploit the input guard using math.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://ctflearn.com/challenge/1234&#34;&gt;Problem link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The problem statement is:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;$ nc rivit.dev 10011
+X * 212103456793011 = 183057226632645
+X = ?
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;It seems we want to compute the number of x:&lt;/p&gt;
+&lt;p&gt;$$ x = \frac{183057226632645}{212103456793011}$$&lt;/p&gt;
+&lt;p&gt;If you compute it, it should be something like &lt;code&gt;0.8630563094088945586&lt;/code&gt;. However, it won&amp;rsquo;t give you the flag because x must be an integer. That said we need to overflow.&lt;/p&gt;
+&lt;p&gt;$$ 212103456793011x = 183057226632645 \mod{2^{64}} $$&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>CTFLearn AndhraPradesh</title>
+      <link>https://kazuf3.nicheapplab.com/posts/ctflearn-andhrapradesh/</link>
+      <pubDate>Thu, 17 Aug 2023 10:04:41 -0700</pubDate>
+      <guid>https://kazuf3.nicheapplab.com/posts/ctflearn-andhrapradesh/</guid>
+      <description>&lt;p&gt;A problem to reverse engineer and find the correct condition.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://ctflearn.com/challenge/1030&#34;&gt;Problem link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In this challenge, I have to change the value of &lt;code&gt;con1&lt;/code&gt;&lt;del&gt;&lt;code&gt;con5&lt;/code&gt; in order to pass tests in &lt;code&gt;_start&lt;/code&gt;&lt;/del&gt;&lt;code&gt;test4&lt;/code&gt;.&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;; Andrha Pradesh Assembler Challenge for CTFLearn
+; This challenge focuses on cmp, je and jne
+
+section .data
+    welcome db &amp;#34;Hello CTFlearn Andhra Pradesh Assembler Challenge!&amp;#34;,0x0a,0x00
+    noflag db &amp;#34;Sorry no flag for you :-(&amp;#34;,0x0a,0x00
+    alldone db &amp;#34;All Done!&amp;#34;,0x0a,0x00
+    baddata db &amp;#34;Baad Data!&amp;#34;,0x0a,0x00
+    congrats db &amp;#34;Congrats!! You found the flag!!&amp;#34;, 0x0a, 0x00
+    data    dw 0xbb35,0xbb4c,0xbb3a,0xbb54,0xbb5b,0xbb57,0xbb66,0xbb52,0xbb5d,0xbb30,\
+               0xbb5f,0xbb5c,0xbb5b,0xbb66,0xbb57,0xbb56,0xbb57,0xbb5c,0xbb41,0xbb4c,\
+               0xbb5b,0xbb54,0xbb6b,0xbb59,0xbb6b,0xbb63
+
+;   ###################################################################
+;   Change the values of these five constants to solve the challenge
+    con1 db ??? ; C syntax for hex constant
+    con2 db ???  ;
+    con3 db ???
+    con4 db ????h   ; this form for hex constants is popular among assembly language programmers
+    con5 db ????h
+;   ####################################################################
+;   Do not change any code below here
+
+section .bss
+    buffer resb 32
+
+section .text
+    global _start
+
+_start:
+    xor r8, r8      ; init the exit status to 0
+
+    mov rax, 1      ; sys_write system call
+    mov rdi, 1      ; stdout (write to screen)
+    mov rsi, welcome   ; memory location of string to write
+    mov rdx, 51     ; number of characters in string to write
+    syscall
+
+    xor rax, rax    ; clear the rax register
+    mov al, [con1]  ; move the value of con1 to the low byte of rax
+    cmp al, 0xab
+    je _test2
+
+    mov r8, 1       ; exit status
+    jmp _noflagforyou
+
+_test2:
+    xor rax, rax
+    mov al, [con2]
+    cmp al, 0xcb
+    jne _test3
+
+    mov r8, 2       ; exit status
+    jmp _noflagforyou
+
+_test3:
+    mov r8, 3       ; exit status
+    xor rax, rax
+    mov al, [con3]
+    cmp al, 0x20
+    ja  _noflagforyou
+
+    mov r8, 4       ; exit status
+    xor rax, rax
+    mov al, [con3]
+    cmp al, 20h
+    jb _noflagforyou
+
+_test4:
+    ; https://en.wikibooks.org/wiki/X86_Assembly/X86_Architecture
+    mov r8, 5h      ; exit status
+    xor rax, rax
+    mov al, [con4]
+    mov ah, [con5]
+    cmp ax, 0baadh
+    jne _noflagforyou
+
+    mov r8, 6h      ; exit status
+_checkflag:
+    xor rdx, rdx    ; clear the rdx register
+    xor rcx, rcx    ; init the rcx counter to zero
+    xor rbx, rbx    ; clear the rbx register
+    mov bl, BYTE [con1]
+    add bl, BYTE [con3]
+    mov dl, BYTE [con4]
+    mov dh, BYTE [con5]
+
+_Loop1:
+    xor rax, rax
+    mov ax, WORD [data+rcx*2]
+    sub ax, dx
+
+    xor rax, rbx
+
+    cmp rax, 32
+    jb _baddata
+    cmp rax, 126
+    ja _baddata
+
+    mov [buffer+rcx], BYTE al
+    inc rcx
+    cmp rcx, 26
+    jb _Loop1
+    mov [buffer+rcx], BYTE 0x0a
+
+_printcongrats:
+    mov rax, 1      ; sys_write system call
+    mov rdi, 1      ; stdout
+    mov rsi, congrats ; memory location of string to write
+    mov rdx, 32     ; number of characters in string to write
+    syscall
+
+_printflag:
+    mov rax, 1      ; sys_write system call
+    mov rdi, 1      ; stdout
+    mov rsi, buffer ; memory location of string to write
+    mov rdx, 27     ; number of characters in string to write
+    syscall
+
+    mov r8, 0h      ; exit status
+    jmp _alldone
+
+_baddata:
+    mov rax, 1      ; sys_write system call
+    mov rdi, 1      ; stdout
+    mov rsi, baddata ; memory location of string to write
+    mov rdx, 11     ; number of characters in string to write
+    syscall
+    jmp _alldone
+
+_noflagforyou:
+    mov rax, 1      ; sys_write system call
+    mov rdi, 1      ; stdout
+    mov rsi, noflag ; memory location of string to write
+    mov rdx, 26     ; number of characters in string to write
+    syscall
+
+_alldone:
+    mov rax, 1      ; sys_write system call
+    mov rdi, 1      ; stdout
+    mov rsi, alldone ; memory location of string to write
+    mov rdx, 10     ; number of characters in string to write
+    syscall
+
+_byebye:
+    mov rax, 60     ; exit system call
+    mov rdi, r8     ; return code saved in register r8
+    syscall
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;The following table shows each conditional instruction work.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>CTFLearn Programming a Language</title>
+      <link>https://kazuf3.nicheapplab.com/posts/ctflearn-programming-a-language/</link>
+      <pubDate>Wed, 16 Aug 2023 15:46:18 -0700</pubDate>
+      <guid>https://kazuf3.nicheapplab.com/posts/ctflearn-programming-a-language/</guid>
+      <description>&lt;p&gt;A problem to implement a stack machine.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://ctflearn.com/challenge/1050&#34;&gt;Problem here&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This problem asks to program a stack machine.
+My Python3 answer is below. The size of stack is unchecked.&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;from collections import deque
+import sys
+
+class StackLang:
+    def __init__(self):
+        self.stack = deque()
+        self.stack.append(0)
+    def run(self, filename):
+        with open(filename, &amp;#39;r&amp;#39;) as file:
+            txt = file.read()
+
+        for i in txt:
+            if i == &amp;#39;-&amp;#39;:
+                self.minus()
+            elif i == &amp;#39;+&amp;#39;:
+                self.plus()
+            elif i == &amp;#39;&amp;gt;&amp;#39;:
+                self.gt()
+            elif i == &amp;#39;&amp;lt;&amp;#39;:
+                self.lt()
+            elif i == &amp;#39;@&amp;#39;:
+                self.at()
+            elif i == &amp;#39;.&amp;#39;:
+                self.dot()
+            elif i == &amp;#39;€&amp;#39;:
+                self.euro()
+
+    def minus(self):
+        value = self.stack.pop()
+        value = value - 1
+        self.stack.append(value)
+
+    def plus(self):
+        value = self.stack.pop()
+        value = value + 1
+        self.stack.append(value)
+
+    def gt(self):
+        value = self.stack.popleft()
+        self.stack.append(value)
+
+    def lt(self):
+        value = self.stack.pop()
+        self.stack.appendleft(value)
+
+    def at(self):
+        value1 = self.stack.pop()
+        value2 = self.stack.pop()
+        self.stack.append(value1)
+        self.stack.append(value2)
+
+    def dot(self):
+        value = self.stack.pop()
+        self.stack.append(value)
+        self.stack.append(value)
+
+    def euro(self):
+        ls = [ chr(i) for i in self.stack]
+        print(&amp;#34;&amp;#34;.join(ls))
+
+
+def main(argv, arc):
+    print(argv)
+    machine = StackLang()
+    machine.run(argv[1])
+
+if __name__ == &amp;#39;__main__&amp;#39;:
+    main(sys.argv, len(sys.argv))
+&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;takeaways&#34;&gt;Takeaways&lt;/h2&gt;
+&lt;p&gt;This is an quintessential problem to building a stack machine. First I thought I
+should write it in Scala because it would make the code clearer with (1) case
+class will comply to the BNF, (2) the parser combinator will help DSL
+construction with the separation of instructions and parser.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>CTFLearn Tone Dialing</title>
+      <link>https://kazuf3.nicheapplab.com/posts/ctflearn-tone-dialing/</link>
+      <pubDate>Wed, 16 Aug 2023 10:53:23 -0700</pubDate>
+      <guid>https://kazuf3.nicheapplab.com/posts/ctflearn-tone-dialing/</guid>
+      <description>&lt;p&gt;A problem that encodes the flag into wave file.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://ctflearn.com/challenge/889&#34;&gt;Problem here&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This problem consists of two parts:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Obtain the code from wav file&lt;/li&gt;
+&lt;li&gt;Decode&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;obtain-the-code-from-wav-file&#34;&gt;Obtain the code from wav file&lt;/h2&gt;
+&lt;p&gt;I used &lt;a href=&#34;https://github.com/ribt/dtmf-decoder&#34;&gt;dtmf-decoder&lt;/a&gt; that extract the tone dialing as decimal.&lt;/p&gt;
+&lt;p&gt;I already have Python3 environment and I don&amp;rsquo;t want to mess it up.
+I made a modification of its installation.&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;$ git clone https://github.com/ribt/dtmf-decoder.git
+$ cd dtmf-decoder/
+$ python3 -m pip install -r requirements.txt --upgrade
+$ chmod +x dtmf.py
+$ cp dtmf.py ~/bin/dtmf
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Then I simply run the command and obtain the code.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Vulnerability Assessment Report</title>
+      <link>https://kazuf3.nicheapplab.com/posts/vulnerability-assessment-report/</link>
+      <pubDate>Wed, 26 Jul 2023 09:13:34 -0700</pubDate>
+      <guid>https://kazuf3.nicheapplab.com/posts/vulnerability-assessment-report/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://kazuf3.nicheapplab.com/posts/vulnerability-assessment/&#34;&gt;Back to Vulnerbility Assessment&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;system-description&#34;&gt;System Description&lt;/h2&gt;
+&lt;p&gt;The server hardware consists of a powerful CPU processor and 128GB of memory. It
+runs on the latest version of Linux operating system and hosts a MySQL database
+management system. It is configured with a stable network connection using IPv4
+addresses and interacts with other servers on the network. Security measures
+include SSL/TLS encrypted connections.&lt;/p&gt;
+&lt;h2 id=&#34;scope&#34;&gt;Scope&lt;/h2&gt;
+&lt;p&gt;The scope of this vulnerability assessment relates to the current access
+controls of the system. The assessment will cover a period of three months, from
+June 20XX to August 20XX. NIST SP 800-30 Rev. 1 is used to guide the risk
+analysis of the information system.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Apply Filters to SQL Queries</title>
+      <link>https://kazuf3.nicheapplab.com/posts/apply-filters-to-sql-queries/</link>
+      <pubDate>Tue, 18 Jul 2023 18:39:54 -0700</pubDate>
+      <guid>https://kazuf3.nicheapplab.com/posts/apply-filters-to-sql-queries/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://kazuf3.nicheapplab.com/posts/sql-queries/&#34;&gt;Back to SQL Queries&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;project-description&#34;&gt;Project description&lt;/h2&gt;
+&lt;p&gt;This project is for investigating security issues to help keep the system
+secure. Based on findings that some potential security issues involve login
+attempts and employee machines. We use SQL filters to retrieve records from
+different datasets and investigate potential security issues.&lt;/p&gt;
+&lt;h2 id=&#34;retrieve-after-hours-failed-login-attempts&#34;&gt;Retrieve after hours failed login attempts&lt;/h2&gt;
+&lt;p&gt;In order to list all after-hours failed logins, which are suspicious in this
+case, we performed a SQL query as follows. Since hour regular hour ends at
+18:00:00, we set the condition accordingly.
+&lt;img alt=&#34;image1&#34; loading=&#34;lazy&#34; src=&#34;https://kazuf3.nicheapplab.com/posts/apply-filters-to-sql-queries/images/image1.png&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>File Permissions in Linux</title>
+      <link>https://kazuf3.nicheapplab.com/posts/file-permissions-in-linux/</link>
+      <pubDate>Tue, 18 Jul 2023 18:10:51 -0700</pubDate>
+      <guid>https://kazuf3.nicheapplab.com/posts/file-permissions-in-linux/</guid>
+      <description>&lt;h2 id=&#34;project-description&#34;&gt;Project description&lt;/h2&gt;
+&lt;p&gt;This project repairs file permissions to its appropriate status.&lt;/p&gt;
+&lt;h2 id=&#34;check-file-and-directory-details&#34;&gt;Check file and directory details&lt;/h2&gt;
+&lt;p&gt;After performing the command, ls -la in the /home/researcher2/projects/ directory, we found the following status.&lt;/p&gt;
+&lt;h2 id=&#34;describe-the-permissions-string&#34;&gt;Describe the permissions string&lt;/h2&gt;
+&lt;p&gt;In the &lt;code&gt;/home/researcher2/projects&lt;/code&gt; directory, there are five files with the following names and permissions:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;project_k.txt: -rw-rw-rw-&lt;/code&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;User = read, write&lt;/li&gt;
+&lt;li&gt;Group = read, write&lt;/li&gt;
+&lt;li&gt;Other = read, write&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;project_m.txt: -rw-r-----&lt;/code&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;User = read, write&lt;/li&gt;
+&lt;li&gt;Group = read&lt;/li&gt;
+&lt;li&gt;Other = none&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;project_r.txt: -rw-rw-r--&lt;/code&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Incident Report Analysis</title>
+      <link>https://kazuf3.nicheapplab.com/posts/incident-report-analysis/</link>
+      <pubDate>Tue, 18 Jul 2023 10:55:20 -0700</pubDate>
+      <guid>https://kazuf3.nicheapplab.com/posts/incident-report-analysis/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://kazuf3.nicheapplab.com/posts/incident-report/&#34;&gt;Back to incident report&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;incident-report-analysis&#34;&gt;Incident report analysis&lt;/h1&gt;
+&lt;h2 id=&#34;instructions&#34;&gt;Instructions&lt;/h2&gt;
+&lt;p&gt;As you continue through this course, you may use this template to record your findings after completing an activity or to take notes on what you&amp;rsquo;ve learned about a specific tool or concept. You can also use this chart as a way to practice applying the NIST framework to different situations you encounter.&lt;/p&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;The organization recently experienced a DDoS attack, which compromised the
+internal network for two hours until it was resolved.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Stakeholder Memorandum</title>
-      <link>http://kazuf3.github.io/portfolio/posts/stakeholder-memorandum/</link>
+      <link>https://kazuf3.nicheapplab.com/posts/stakeholder-memorandum/</link>
       <pubDate>Mon, 17 Jul 2023 21:04:23 -0700</pubDate>
-      
-      <guid>http://kazuf3.github.io/portfolio/posts/stakeholder-memorandum/</guid>
-      <description>Back to Security Audit
-Stakeholder memorandum TO: IT Manager, Stakeholders
-FROM: Kazuhiro Funakoshi
-DATE: 07/13/2023
-SUBJECT: Internal IT Audit Findings and Recommendations
-Dear Colleagues,
-Please review the following information regarding the Botium Toys internal audit scope, goals, critical findings, summary and recommendations.
-Scope The following systems are in scope: accounting, endpoint detection, firewalls, intrusion detection system, security information and event management (SIEM) tool.
-Ensure current user permissions, controls, procedures, and protocols in place align with necessary compliance requirements.</description>
+      <guid>https://kazuf3.nicheapplab.com/posts/stakeholder-memorandum/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://kazuf3.nicheapplab.com/posts/security-audit/&#34;&gt;Back to Security Audit&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;stakeholder-memorandum&#34;&gt;Stakeholder memorandum&lt;/h1&gt;
+&lt;p&gt;TO: IT Manager, Stakeholders&lt;br&gt;
+FROM: Kazuhiro Funakoshi&lt;br&gt;
+DATE: 07/13/2023&lt;br&gt;
+SUBJECT: Internal IT Audit Findings and Recommendations&lt;/p&gt;
+&lt;p&gt;Dear Colleagues,&lt;/p&gt;
+&lt;p&gt;Please review the following information regarding the Botium Toys internal audit scope, goals, critical findings, summary and recommendations.&lt;/p&gt;
+&lt;h2 id=&#34;scope&#34;&gt;Scope&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;The following systems are in scope: accounting, endpoint detection, firewalls,
+intrusion detection system, security information and event management (SIEM)
+tool.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Ensure current user permissions, controls, procedures, and protocols in
+place align with necessary compliance requirements.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Compliance Checklist</title>
-      <link>http://kazuf3.github.io/portfolio/posts/compliance-checklist/</link>
+      <link>https://kazuf3.nicheapplab.com/posts/compliance-checklist/</link>
       <pubDate>Mon, 17 Jul 2023 21:00:47 -0700</pubDate>
-      
-      <guid>http://kazuf3.github.io/portfolio/posts/compliance-checklist/</guid>
-      <description>Back to Security Audit
-[ ] The Federal Energy Regulatory Commission - North American Electric Reliability Corporation (FERC-NERC) The FERC-NERC regulation applies to organizations that work with electricity or that are involved with the U.S. and North American power grid. Organizations have an obligation to prepare for, mitigate, and report any potential security incident that can negatively affect the power grid. Organizations are legally required to adhere to the Critical Infrastructure Protection Reliability Standards (CIP) defined by the FERC.</description>
+      <guid>https://kazuf3.nicheapplab.com/posts/compliance-checklist/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://kazuf3.nicheapplab.com/posts/security-audit/&#34;&gt;Back to Security Audit&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;--the-federal-energy-regulatory-commission---north-american-electric-reliability-corporation-ferc-nerc&#34;&gt;[ ] The Federal Energy Regulatory Commission - North American Electric Reliability Corporation (FERC-NERC)&lt;/h2&gt;
+&lt;p&gt;The FERC-NERC regulation applies to organizations that work with electricity or
+that are involved with the U.S. and North American power grid. Organizations
+have an obligation to prepare for, mitigate, and report any potential security
+incident that can negatively affect the power grid. Organizations are legally
+required to adhere to the Critical Infrastructure Protection Reliability
+Standards (CIP) defined by the FERC.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Controls Assessment</title>
-      <link>http://kazuf3.github.io/portfolio/posts/controls-assessment/</link>
+      <link>https://kazuf3.nicheapplab.com/posts/controls-assessment/</link>
       <pubDate>Mon, 17 Jul 2023 20:52:21 -0700</pubDate>
-      
-      <guid>http://kazuf3.github.io/portfolio/posts/controls-assessment/</guid>
-      <description>Back to Security Audit
-Controls Assessment Current assets Assets managed by the IT Department include:
-On-premises equipment for in-office business needs Employee equipment: end-user devices (desktops/laptops, smartphones), remote workstations, headsets, cables, keyboards, mice, docking stations, surveillance cameras, etc. Management of systems, software, and services: accounting, telecommunication, database, security, ecommerce, and inventory management Internet access Internal network Vendor access management Data center hosting services Data retention and storage Badge readers Legacy system maintenance: end-of-life systems that require human monitoring Administrative Controls Least Priviledge Needs to be implemented; High</description>
+      <guid>https://kazuf3.nicheapplab.com/posts/controls-assessment/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://kazuf3.nicheapplab.com/posts/security-audit/&#34;&gt;Back to Security Audit&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;controls-assessment&#34;&gt;Controls Assessment&lt;/h1&gt;
+&lt;h2 id=&#34;current-assets&#34;&gt;Current assets&lt;/h2&gt;
+&lt;p&gt;Assets managed by the IT Department include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;On-premises equipment for in-office business needs&lt;/li&gt;
+&lt;li&gt;Employee equipment: end-user devices (desktops/laptops, smartphones), remote workstations, headsets, cables, keyboards, mice, docking stations, surveillance cameras, etc.&lt;/li&gt;
+&lt;li&gt;Management of systems, software, and services: accounting, telecommunication, database, security, ecommerce, and inventory management&lt;/li&gt;
+&lt;li&gt;Internet access&lt;/li&gt;
+&lt;li&gt;Internal network&lt;/li&gt;
+&lt;li&gt;Vendor access management&lt;/li&gt;
+&lt;li&gt;Data center hosting services&lt;/li&gt;
+&lt;li&gt;Data retention and storage&lt;/li&gt;
+&lt;li&gt;Badge readers&lt;/li&gt;
+&lt;li&gt;Legacy system maintenance: end-of-life systems that require human monitoring&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;administrative-controls&#34;&gt;Administrative Controls&lt;/h2&gt;
+&lt;dl&gt;
+&lt;dt&gt;Least Priviledge&lt;/dt&gt;
+&lt;dd&gt;&lt;strong&gt;Needs to be implemented; High&lt;/strong&gt;&lt;br&gt;
+Preventative; reduces risk by making sure vendors and non-authorized staff
+only have access to the assets/data they need to do their jobs&lt;/dd&gt;
+&lt;dt&gt;Disaster recovery plans&lt;/dt&gt;
+&lt;dd&gt;&lt;strong&gt;Needs to be implemented; Medium&lt;/strong&gt;&lt;br&gt;
+Corrective; business continuity to ensure systems are able to run in the event
+of an incident/there is limited to no loss of productivity downtime/impact to
+system components, including: computer room environment (air conditioning,
+power supply, etc.); hardware (servers, employee equipment); connectivity
+(internal network, wireless); applications (email, electronic data); data and
+restoration&lt;/dd&gt;
+&lt;dt&gt;Password policies&lt;/dt&gt;
+&lt;dd&gt;&lt;strong&gt;Needs to be implemented; Medium&lt;/strong&gt;&lt;br&gt;
+Preventative; establish password strength rules to improve security/reduce
+likelihood of account compromise through brute force or dictionary attack
+techniques&lt;/dd&gt;
+&lt;dt&gt;Access control policies&lt;/dt&gt;
+&lt;dd&gt;&lt;strong&gt;Needs to be implemented; High&lt;/strong&gt;&lt;br&gt;
+Preventative; increase confidentiality and integrity of data&lt;/dd&gt;
+&lt;dt&gt;Account management policies&lt;/dt&gt;
+&lt;dd&gt;&lt;strong&gt;Needs to be implemented; High&lt;/strong&gt;&lt;br&gt;
+Preventative; reduce attack surface and limit overall impact from disgruntled/former employees&lt;/dd&gt;
+&lt;dt&gt;Separation of duties&lt;/dt&gt;
+&lt;dd&gt;&lt;strong&gt;Needs to be implemented; High&lt;/strong&gt;&lt;br&gt;
+Preventative; ensure no one has so much access that they can abuse the system for personal gain&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;h2 id=&#34;technical-controls&#34;&gt;Technical Controls&lt;/h2&gt;
+&lt;dl&gt;
+&lt;dt&gt;Firewall&lt;/dt&gt;
+&lt;dd&gt;Preventative; firewalls are already in place to filter unwanted/malicious traffic from entering internal network&lt;/dd&gt;
+&lt;dt&gt;Intrusion Detection System (IDS)&lt;/dt&gt;
+&lt;dd&gt;Detective; allows IT team to identify possible intrusions (e.g., anomalous traffic) quickly&lt;/dd&gt;
+&lt;dt&gt;Encryption&lt;/dt&gt;
+&lt;dd&gt;&lt;strong&gt;Needs to be implemented; Medium&lt;/strong&gt;&lt;br&gt;
+Deterrent; makes confidential information/data more secure (e.g., website payment transactions)&lt;/dd&gt;
+&lt;dt&gt;Backups&lt;/dt&gt;
+&lt;dd&gt;&lt;strong&gt;Needs to be implemented; Medium&lt;/strong&gt;&lt;br&gt;
+Corrective; supports ongoing productivity in the case of an event; aligns to the disaster recovery plan&lt;/dd&gt;
+&lt;dt&gt;Password management system&lt;/dt&gt;
+&lt;dd&gt;&lt;strong&gt;Needs to be implemented; Medium&lt;/strong&gt;&lt;br&gt;
+Corrective; password recovery, reset, lock out notifications&lt;/dd&gt;
+&lt;dt&gt;Antivirus (AV) software&lt;/dt&gt;
+&lt;dd&gt;&lt;strong&gt;Needs to be implemented; High&lt;/strong&gt;&lt;br&gt;
+Corrective; detect and quarantine known threats&lt;/dd&gt;
+&lt;dt&gt;Manual monitoring, maintenance, and intervention&lt;/dt&gt;
+&lt;dd&gt;&lt;strong&gt;Needs to be implemented; Medium&lt;/strong&gt;&lt;br&gt;
+Preventative/corrective; required for legacy systems to identify and mitigate potential threats, risks, and vulnerabilities&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;h2 id=&#34;physical-controls&#34;&gt;Physical Controls&lt;/h2&gt;
+&lt;dl&gt;
+&lt;dt&gt;Time-controlled safe&lt;/dt&gt;
+&lt;dd&gt;&lt;strong&gt;Needs to be implemented; Low&lt;/strong&gt;&lt;br&gt;
+Deterrent; reduce attack surface/impact of physical threats&lt;/dd&gt;
+&lt;dt&gt;Adequate lighting&lt;/dt&gt;
+&lt;dd&gt;&lt;strong&gt;Needs to be implemented; Low&lt;/strong&gt;&lt;br&gt;
+Deterrent; limit “hiding” places to deter threats&lt;/dd&gt;
+&lt;dt&gt;Closed-circuit television (CCTV) surveillance&lt;/dt&gt;
+&lt;dd&gt;&lt;strong&gt;Needs to be implemented; High&lt;/strong&gt;&lt;br&gt;
+Preventative/detective; can reduce risk of certain events; can be used after event for investigation&lt;/dd&gt;
+&lt;dt&gt;Locking cabinets (for network gear)&lt;/dt&gt;
+&lt;dd&gt;&lt;strong&gt;Needs to be implemented; High&lt;/strong&gt;&lt;br&gt;
+Preventative; increase integrity by preventing unauthorized personnel/individuals from physically accessing/modifying network infrastructure gear&lt;/dd&gt;
+&lt;dt&gt;Signage indicating alarm service provider&lt;/dt&gt;
+&lt;dd&gt;&lt;strong&gt;Needs to be implemented; Low&lt;/strong&gt;&lt;br&gt;
+Deterrent; makes the likelihood of a successful attack seem low&lt;/dd&gt;
+&lt;dt&gt;Locks&lt;/dt&gt;
+&lt;dd&gt;&lt;strong&gt;Needs to be implemented; Low&lt;/strong&gt;&lt;br&gt;
+Preventative; physical and digital assets are more secure&lt;/dd&gt;
+&lt;dt&gt;Fire detection and prevention (fire alarm, sprinkler system, etc.)&lt;/dt&gt;
+&lt;dd&gt;&lt;strong&gt;Needs to be implemented; High&lt;/strong&gt;&lt;br&gt;
+Detective/Preventative; detect fire in the toy store’s physical location to prevent damage to inventory, servers, etc.&lt;/dd&gt;
+&lt;/dl&gt;</description>
     </item>
-    
   </channel>
 </rss>

@@ -2,39 +2,126 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://kazuf3.github.io/portfolio/posts/cyber-security-portfolio-index/</loc>
+    <loc>https://kazuf3.nicheapplab.com/posts/cyber-security-portfolio-index/</loc>
     <lastmod>2023-07-17T20:19:48-07:00</lastmod>
   </url><url>
-    <loc>http://kazuf3.github.io/portfolio/posts/security-audit/</loc>
+    <loc>https://kazuf3.nicheapplab.com/posts/improving-security-posture-with-wazuh/</loc>
+    <lastmod>2023-08-12T09:36:19-07:00</lastmod>
+  </url><url>
+    <loc>https://kazuf3.nicheapplab.com/posts/zero-cost-home-security/</loc>
+    <lastmod>2023-08-11T10:01:43-07:00</lastmod>
+  </url><url>
+    <loc>https://kazuf3.nicheapplab.com/posts/algorithm-for-file-update-in-python/</loc>
+    <lastmod>2023-07-26T10:16:50-07:00</lastmod>
+  </url><url>
+    <loc>https://kazuf3.nicheapplab.com/posts/incident-handlers-journal/</loc>
+    <lastmod>2023-07-26T09:48:13-07:00</lastmod>
+  </url><url>
+    <loc>https://kazuf3.nicheapplab.com/posts/vulnerability-assessment/</loc>
+    <lastmod>2023-07-26T09:21:06-07:00</lastmod>
+  </url><url>
+    <loc>https://kazuf3.nicheapplab.com/posts/sql-queries/</loc>
+    <lastmod>2023-07-18T18:05:51-07:00</lastmod>
+  </url><url>
+    <loc>https://kazuf3.nicheapplab.com/posts/linux-commands/</loc>
+    <lastmod>2023-07-18T18:05:44-07:00</lastmod>
+  </url><url>
+    <loc>https://kazuf3.nicheapplab.com/posts/incident-report/</loc>
+    <lastmod>2023-07-18T11:00:53-07:00</lastmod>
+  </url><url>
+    <loc>https://kazuf3.nicheapplab.com/posts/security-audit/</loc>
     <lastmod>2023-07-17T20:21:09-07:00</lastmod>
   </url><url>
-    <loc>http://kazuf3.github.io/portfolio/categories/</loc>
+    <loc>https://kazuf3.nicheapplab.com/categories/blog/</loc>
+    <lastmod>2023-08-25T10:40:22-07:00</lastmod>
+  </url><url>
+    <loc>https://kazuf3.nicheapplab.com/categories/</loc>
+    <lastmod>2023-08-25T10:40:22-07:00</lastmod>
+  </url><url>
+    <loc>https://kazuf3.nicheapplab.com/categories/ctf/</loc>
+    <lastmod>2023-08-25T10:40:22-07:00</lastmod>
+  </url><url>
+    <loc>https://kazuf3.nicheapplab.com/posts/ctflearn-rsabeginner/</loc>
+    <lastmod>2023-08-25T10:40:22-07:00</lastmod>
+  </url><url>
+    <loc>https://kazuf3.nicheapplab.com/</loc>
+    <lastmod>2023-08-25T10:40:22-07:00</lastmod>
+  </url><url>
+    <loc>https://kazuf3.nicheapplab.com/posts/</loc>
+    <lastmod>2023-08-25T10:40:22-07:00</lastmod>
+  </url><url>
+    <loc>https://kazuf3.nicheapplab.com/posts/ctflearn-substitution-cipher/</loc>
+    <lastmod>2023-08-24T01:38:00-07:00</lastmod>
+  </url><url>
+    <loc>https://kazuf3.nicheapplab.com/posts/ctflearn-leak-me/</loc>
+    <lastmod>2023-08-22T16:00:42-07:00</lastmod>
+  </url><url>
+    <loc>https://kazuf3.nicheapplab.com/posts/ctflearn-reykjavik/</loc>
+    <lastmod>2023-08-18T14:31:08-07:00</lastmod>
+  </url><url>
+    <loc>https://kazuf3.nicheapplab.com/posts/ctflearn-impossible-equation/</loc>
+    <lastmod>2023-08-18T09:44:48-07:00</lastmod>
+  </url><url>
+    <loc>https://kazuf3.nicheapplab.com/posts/ctflearn-andhrapradesh/</loc>
+    <lastmod>2023-08-17T10:04:41-07:00</lastmod>
+  </url><url>
+    <loc>https://kazuf3.nicheapplab.com/posts/ctflearn-programming-a-language/</loc>
+    <lastmod>2023-08-16T15:46:18-07:00</lastmod>
+  </url><url>
+    <loc>https://kazuf3.nicheapplab.com/posts/ctflearn-tone-dialing/</loc>
+    <lastmod>2023-08-16T10:53:23-07:00</lastmod>
+  </url><url>
+    <loc>https://kazuf3.nicheapplab.com/categories/cybersecurity/</loc>
+    <lastmod>2023-08-12T09:36:19-07:00</lastmod>
+  </url><url>
+    <loc>https://kazuf3.nicheapplab.com/categories/wazuh/</loc>
+    <lastmod>2023-08-12T09:36:19-07:00</lastmod>
+  </url><url>
+    <loc>https://kazuf3.nicheapplab.com/categories/portfolio/</loc>
+    <lastmod>2023-07-26T10:16:50-07:00</lastmod>
+  </url><url>
+    <loc>https://kazuf3.nicheapplab.com/categories/python/</loc>
+    <lastmod>2023-07-26T10:16:50-07:00</lastmod>
+  </url><url>
+    <loc>https://kazuf3.nicheapplab.com/categories/incident-handlers-journal/</loc>
+    <lastmod>2023-07-26T09:48:13-07:00</lastmod>
+  </url><url>
+    <loc>https://kazuf3.nicheapplab.com/categories/vulnerability-assessment/</loc>
+    <lastmod>2023-07-26T09:21:06-07:00</lastmod>
+  </url><url>
+    <loc>https://kazuf3.nicheapplab.com/posts/vulnerability-assessment-report/</loc>
+    <lastmod>2023-07-26T09:13:34-07:00</lastmod>
+  </url><url>
+    <loc>https://kazuf3.nicheapplab.com/posts/apply-filters-to-sql-queries/</loc>
+    <lastmod>2023-07-18T18:39:54-07:00</lastmod>
+  </url><url>
+    <loc>https://kazuf3.nicheapplab.com/categories/sql-queries/</loc>
+    <lastmod>2023-07-18T18:39:54-07:00</lastmod>
+  </url><url>
+    <loc>https://kazuf3.nicheapplab.com/posts/file-permissions-in-linux/</loc>
+    <lastmod>2023-07-18T18:10:51-07:00</lastmod>
+  </url><url>
+    <loc>https://kazuf3.nicheapplab.com/categories/linux-commands/</loc>
+    <lastmod>2023-07-18T18:10:51-07:00</lastmod>
+  </url><url>
+    <loc>https://kazuf3.nicheapplab.com/categories/incident-report/</loc>
+    <lastmod>2023-07-18T11:00:53-07:00</lastmod>
+  </url><url>
+    <loc>https://kazuf3.nicheapplab.com/posts/incident-report-analysis/</loc>
+    <lastmod>2023-07-18T10:55:20-07:00</lastmod>
+  </url><url>
+    <loc>https://kazuf3.nicheapplab.com/categories/security-audit/</loc>
     <lastmod>2023-07-17T21:04:23-07:00</lastmod>
   </url><url>
-    <loc>http://kazuf3.github.io/portfolio/categories/cybersecurity/</loc>
+    <loc>https://kazuf3.nicheapplab.com/posts/stakeholder-memorandum/</loc>
     <lastmod>2023-07-17T21:04:23-07:00</lastmod>
   </url><url>
-    <loc>http://kazuf3.github.io/portfolio/</loc>
-    <lastmod>2023-07-17T21:04:23-07:00</lastmod>
-  </url><url>
-    <loc>http://kazuf3.github.io/portfolio/categories/portfolio/</loc>
-    <lastmod>2023-07-17T21:04:23-07:00</lastmod>
-  </url><url>
-    <loc>http://kazuf3.github.io/portfolio/posts/</loc>
-    <lastmod>2023-07-17T21:04:23-07:00</lastmod>
-  </url><url>
-    <loc>http://kazuf3.github.io/portfolio/categories/security-audit/</loc>
-    <lastmod>2023-07-17T21:04:23-07:00</lastmod>
-  </url><url>
-    <loc>http://kazuf3.github.io/portfolio/posts/stakeholder-memorandum/</loc>
-    <lastmod>2023-07-17T21:04:23-07:00</lastmod>
-  </url><url>
-    <loc>http://kazuf3.github.io/portfolio/posts/compliance-checklist/</loc>
+    <loc>https://kazuf3.nicheapplab.com/posts/compliance-checklist/</loc>
     <lastmod>2023-07-17T21:00:47-07:00</lastmod>
   </url><url>
-    <loc>http://kazuf3.github.io/portfolio/posts/controls-assessment/</loc>
+    <loc>https://kazuf3.nicheapplab.com/posts/controls-assessment/</loc>
     <lastmod>2023-07-17T20:52:21-07:00</lastmod>
   </url><url>
-    <loc>http://kazuf3.github.io/portfolio/tags/</loc>
+    <loc>https://kazuf3.nicheapplab.com/tags/</loc>
   </url>
 </urlset>

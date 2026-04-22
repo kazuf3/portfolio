@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Python on My Portfolio</title>
+    <link>https://kazuf3.nicheapplab.com/categories/python/</link>
+    <description>Recent content in Python on My Portfolio</description>
+    <image>
+      <title>My Portfolio</title>
+      <url>https://kazuf3.nicheapplab.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://kazuf3.nicheapplab.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 Jul 2023 10:16:50 -0700</lastBuildDate>
+    <atom:link href="https://kazuf3.nicheapplab.com/categories/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Algorithm for File Update in Python</title>
+      <link>https://kazuf3.nicheapplab.com/posts/algorithm-for-file-update-in-python/</link>
+      <pubDate>Wed, 26 Jul 2023 10:16:50 -0700</pubDate>
+      <guid>https://kazuf3.nicheapplab.com/posts/algorithm-for-file-update-in-python/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://kazuf3.nicheapplab.com/posts/cyber-security-portfolio-index/&#34;&gt;Back to index&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;project-description&#34;&gt;Project description&lt;/h2&gt;
+&lt;p&gt;This project describes an activity of updating a text file, based on the
+necessity of the business.&lt;/p&gt;
+&lt;p&gt;It is designed for a process to maintain allow-list-based access control list.
+In order to restrict access of unauthorized users, businesses are required to
+review the list and remove access privileges on a need-to basis. With a given
+list of IP addresses, the program will remove them from the allow-list and write
+IP addresses back to the text file.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
