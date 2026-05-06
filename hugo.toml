@@ -1,6 +1,6 @@
 baseURL = 'https://kazuf3.nicheapplab.com/'
-languageCode = 'en-us'
-title = 'My Portfolio'
+locale = 'en-us'
+title = 'Blog'
 paginate = 5
 theme = 'PaperMod'
 enableRobotsTXT = true
