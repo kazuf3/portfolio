@@ -2,6 +2,7 @@
 title: "Secure WSL2 Credentials with pass, GnuPG, and Kleopatra"
 date: 2026-05-06T10:04:41-07:00
 categories: ["blog", "credential management"]
+weight: 5
 ---
 
 Here is the complete Markdown article for your setup. It includes the updated
