@@ -1,0 +1,70 @@
+{{- if and .Site.Params.ShowBreadCrumbs (not .IsHome) -}}
+<div class="breadcrumbs">
+    <!-- 1. Always start with Home -->
+    <a href="{{ .Site.BaseURL | relLangURL }}">{{ i18n "home" | default "Home" }}</a>
+
+    <!-- 2. Loop through Custom Logical Parents if defined -->
+    {{- if .Params.logical_breadcrumbs -}}
+        {{- range .Params.logical_breadcrumbs -}}
+            &nbsp;»&nbsp;<a href="{{ .url | relLangURL }}">{{ .title }}</a>
+        {{- end -}}
+    {{- else -}}
+        <!-- Fallback: Standard Path/Parent loop for non-customized pages -->
+        {{- range .Ancestors.Reverse -}}
+            {{- if not .IsHome -}}
+                &nbsp;»&nbsp;<a href="{{ .Permalink }}">{{ .Title }}</a>
+            {{- end -}}
+        {{- end -}}
+    {{- end -}}
+
+    <!-- 3. Finish with the Current Page Title -->
+    &nbsp;»&nbsp;<span>{{ .Title }}</span>
+</div>
+
+<!-- Structured SEO Schema accurately matching your logical choice -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "{{ i18n "home" | default "Home" }}",
+      "item": "{{ .Site.BaseURL }}"
+    }
+    {{- $pos := 1 -}}
+    {{- if .Params.logical_breadcrumbs -}}
+        {{- range .Params.logical_breadcrumbs -}}
+            {{- $pos = add $pos 1 -}}
+            ,{
+              "@type": "ListItem",
+              "position": {{ $pos }},
+              "name": "{{ .title }}",
+              "item": "{{ .url | absURL }}"
+            }
+        {{- end -}}
+    {{- else -}}
+        {{- range .Ancestors.Reverse -}}
+            {{- if not .IsHome -}}
+                {{- $pos = add $pos 1 -}}
+                ,{
+                  "@type": "ListItem",
+                  "position": {{ $pos }},
+                  "name": "{{ .Title }}",
+                  "item": "{{ .Permalink }}"
+                }
+            {{- end -}}
+        {{- end -}}
+    {{- end -}}
+    {{- $pos = add $pos 1 -}}
+    ,{
+      "@type": "ListItem",
+      "position": {{ $pos }},
+      "name": "{{ .Title }}",
+      "item": "{{ .Permalink }}"
+    }
+  ]
+}
+</script>
+{{- end -}}

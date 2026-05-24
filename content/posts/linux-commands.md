@@ -3,6 +3,10 @@ title: "Linux Commands"
 date: 2023-07-18T18:05:44-07:00
 categories: ["portfolio", "cybersecurity", "linux commands"]
 weight: 5
+url: "/posts/linux-commands/"
+logical_breadcrumbs:
+    - title: "Cybersecurity Portfolio"
+      url: "/posts/cyber-security-portfolio-index/"
 ---
 - [Back to index]({{< ref "cyber-security-portfolio-index" >}})
 - [Scenario(given)]({{< ref "#scenario" >}})

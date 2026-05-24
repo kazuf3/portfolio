@@ -1,7 +1,13 @@
 ---
 title: "CTFLearn Reykjavik"
 date: 2023-08-18T14:31:08-07:00
-categories: ["CTF","blog"]
+categories: ["CTF"]
+url: "/posts/ctflearn-reykjavik/"
+logical_breadcrumbs:
+    - title: "Cybersecurity Portfolio"
+      url: "/posts/cyber-security-portfolio-index/"
+    - title: "CTF Challenges"
+      url: "/posts/cyber-security-portfolio-index/#ctf-challenges"
 ---
 A standard problem to find the flag by dynamic reverse engineering a x64 ELF binary.
 

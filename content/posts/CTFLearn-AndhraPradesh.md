@@ -1,7 +1,13 @@
 ---
 title: "CTFLearn AndhraPradesh"
 date: 2023-08-17T10:04:41-07:00
-categories: ["CTF", "blog"]
+categories: ["CTF"]
+url: "/posts/ctflearn-andhrapradesh/"
+logical_breadcrumbs:
+    - title: "Cybersecurity Portfolio"
+      url: "/posts/cyber-security-portfolio-index/"
+    - title: "CTF Challenges"
+      url: "/posts/cyber-security-portfolio-index/#ctf-challenges"
 ---
 
 A problem to reverse engineer and find the correct condition.

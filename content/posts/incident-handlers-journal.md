@@ -3,6 +3,12 @@ title: "Incident Handler's Journal"
 date: 2023-07-26T09:48:13-07:00
 categories: ["cybersecurity", "portfolio", "incident handler's journal"]
 weight: 5
+url: "/posts/incident-handlers-journal/"
+logical_breadcrumbs:
+    - title: "Cybersecurity Portfolio"
+      url: "/posts/cyber-security-portfolio-index/"
+    - title: "Google Cybersecurity Professional Course"
+      url: "/posts/cyber-security-portfolio-index/#google-cybersecurity-professional-course"
 ---
 - [Back to index]({{< ref "cyber-security-portfolio-index" >}})
 - [Entry 1]({{< ref "#entry-1" >}}): Analyzing ransomeware incident

@@ -4,6 +4,10 @@ date: 2023-07-17T20:21:09-07:00
 toc: true
 weight: 5
 categories: ["cybersecurity", "portfolio", "security audit"]
+url: "/posts/security-audit/"
+logical_breadcrumbs:
+    - title: "Cybersecurity Portfolio"
+      url: "/posts/cyber-security-portfolio-index/"
 ---
 - [Back to index]({{< ref "cyber-security-portfolio-index" >}})
 - [Project Setup]({{< ref "#project-setup" >}})

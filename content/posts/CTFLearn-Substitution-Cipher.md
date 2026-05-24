@@ -1,7 +1,13 @@
 ---
 title: "CTFLearn Substitution Cipher"
 date: 2023-08-24T01:38:00-07:00
-categories: ["CTF", "blog"]
+categories: ["CTF"]
+url: "/posts/ctflearn-substitution-cipher/"
+logical_breadcrumbs:
+    - title: "Cybersecurity Portfolio"
+      url: "/posts/cyber-security-portfolio-index/"
+    - title: "CTF Challenges"
+      url: "/posts/cyber-security-portfolio-index/#ctf-challenges"
 ---
 
 A problem to solve substitution cipher, which as *Dancing Man* by Sir Authur Conan Doyle.

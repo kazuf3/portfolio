@@ -2,6 +2,13 @@
 title: "Controls Assessment"
 date: 2023-07-17T20:52:21-07:00
 categories: ["cybersecurity", "portfolio", "security audit"]
+toc: true
+url: "/posts/controls-assessment/"
+logical_breadcrumbs:
+    - title: "Cybersecurity Portfolio"
+      url: "/posts/cyber-security-portfolio-index/"
+    - title: "Security Audit"
+      url: "/posts/security-audit/"
 ---
 [Back to Security Audit]({{< ref "security-audit" >}})
 # Controls Assessment

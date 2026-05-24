@@ -2,6 +2,12 @@
 title: "Stakeholder Memorandum"
 date: 2023-07-17T21:04:23-07:00
 categories: ["cybersecurity", "portfolio", "security audit"]
+url: "/posts/stakeholder-memorandum/"
+logical_breadcrumbs:
+    - title: "Cybersecurity Portfolio"
+      url: "/posts/cyber-security-portfolio-index/"
+    - title: "Security Audit"
+      url: "/posts/security-audit/"
 ---
 [Back to Security Audit]({{< ref "security-audit" >}})
 

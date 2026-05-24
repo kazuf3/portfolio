@@ -1,7 +1,13 @@
 ---
 title: "CTFLearn Tone Dialing"
 date: 2023-08-16T10:53:23-07:00
-categories: ["CTF", "blog"]
+categories: ["CTF"]
+url: "/posts/ctflearn-tone-dialing/"
+logical_breadcrumbs:
+    - title: "Cybersecurity Portfolio"
+      url: "/posts/cyber-security-portfolio-index/"
+    - title: "CTF Challenges"
+      url: "/posts/cyber-security-portfolio-index/#ctf-challenges"
 ---
 
 A problem that encodes the flag into wave file.

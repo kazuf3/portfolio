@@ -3,6 +3,12 @@ title: "Incident Report"
 date: 2023-07-18T11:00:53-07:00
 categories: ["portfolio", "incident report", "cybersecurity"]
 weight: 5
+url: "/posts/incident-report/"
+logical_breadcrumbs:
+    - title: "Cybersecurity Portfolio"
+      url: "/posts/cyber-security-portfolio-index/"
+    - title: "Google Cybersecurity Professional Course"
+      url: "/posts/cyber-security-portfolio-index/#google-cybersecurity-professional-course"
 ---
 - [Back to index]({{< ref "cyber-security-portfolio-index" >}})
 - [Project Setup]({{< ref "#project-setup">}})

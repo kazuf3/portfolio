@@ -3,6 +3,13 @@ title: "Algorithm for File Update in Python"
 date: 2023-07-26T10:16:50-07:00
 categories: ["cybersecurity", "portfolio", "Python"]
 weight: 5
+url: "/posts/algorithm-for-file-update-in-python/"
+logical_breadcrumbs:
+    - title: "Cybersecurity Portfolio"
+      url: "/posts/cyber-security-portfolio-index/"
+    - title: "Google Cybersecurity Professional Course"
+      url: "/posts/cyber-security-portfolio-index/#google-cybersecurity-professional-course"
+
 ---
 - [Back to index]({{< ref "cyber-security-portfolio-index" >}})
 ## Project description

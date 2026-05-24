@@ -2,6 +2,15 @@
 title: "Incident Report Analysis"
 date: 2023-07-18T10:55:20-07:00
 categories: ["portfolio", "cybersecurity", "incident report"]
+url: "/posts/incident-report-analysis/"
+logical_breadcrumbs:
+    - title: "Cybersecurity Portfolio"
+      url: "/posts/cyber-security-portfolio-index/"
+    - title: "Google Cybersecurity Professional Course"
+      url: "/posts/cyber-security-portfolio-index/#google-cybersecurity-professional-course"
+    - title: "Incident Report"
+      url: "/posts/incident-report/"
+
 ---
 [Back to incident report]({{< ref "incident-report" >}})
 

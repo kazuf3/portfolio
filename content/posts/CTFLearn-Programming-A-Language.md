@@ -1,7 +1,13 @@
 ---
 title: "CTFLearn Programming a Language"
 date: 2023-08-16T15:46:18-07:00
-categories: ["CTF", "blog"]
+categories: ["CTF"]
+url: "/posts/ctflearn-programming-a-language/"
+logical_breadcrumbs:
+    - title: "Cybersecurity Portfolio"
+      url: "/posts/cyber-security-portfolio-index/"
+    - title: "CTF Challenges"
+      url: "/posts/cyber-security-portfolio-index/#ctf-challenges"
 ---
 
 A problem to implement a stack machine.

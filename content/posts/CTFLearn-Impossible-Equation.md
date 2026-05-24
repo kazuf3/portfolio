@@ -1,8 +1,14 @@
 ---
 title: "CTFLearn Impossible Equation"
 date: 2023-08-18T09:44:48-07:00
-categories: ["CTF", "blog"]
+categories: ["CTF"]
 math: true
+url: "/posts/ctflearn-impossible-equation/"
+logical_breadcrumbs:
+    - title: "Cybersecurity Portfolio"
+      url: "/posts/cyber-security-portfolio-index/"
+    - title: "CTF Challenges"
+      url: "/posts/cyber-security-portfolio-index/#ctf-challenges"
 ---
 
 A problem to exploit the input guard using math.

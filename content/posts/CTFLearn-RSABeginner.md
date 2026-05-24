@@ -1,8 +1,14 @@
 ---
 title: "CTFLearn RSABeginner"
 date: 2023-08-25T10:40:22-07:00
-categories: ["CTF", "blog"]
+categories: ["CTF"]
 math: true
+url: "/posts/ctflearn-rsabeginner/"
+logical_breadcrumbs:
+    - title: "Cybersecurity Portfolio"
+      url: "/posts/cyber-security-portfolio-index/"
+    - title: "CTF Challenges"
+      url: "/posts/cyber-security-portfolio-index/#ctf-challenges"
 ---
 
 Solve RSA decoding problems when `e` is small enough.

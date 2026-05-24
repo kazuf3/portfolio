@@ -1,7 +1,13 @@
 ---
 title: "CTFLearn Leak Me"
 date: 2023-08-22T16:00:42-07:00
-categories: ["CTF", "blog"]
+categories: ["CTF"]
+url: "/posts/ctflearn-leak-me/"
+logical_breadcrumbs:
+    - title: "Cybersecurity Portfolio"
+      url: "/posts/cyber-security-portfolio-index/"
+    - title: "CTF Challenges"
+      url: "/posts/cyber-security-portfolio-index/#ctf-challenges"
 ---
 
 A problem to exploit the stack with format string attack.

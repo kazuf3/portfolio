@@ -2,6 +2,12 @@
 title: "Compliance Checklist"
 date: 2023-07-17T21:00:47-07:00
 categories: ["cybersecurity", "portfolio", "security audit"]
+url: "/posts/compliance-checklist/"
+logical_breadcrumbs:
+    - title: "Cybersecurity Portfolio"
+      url: "/posts/cyber-security-portfolio-index/"
+    - title: "Security Audit"
+      url: "/posts/security-audit/"
 ---
 [Back to Security Audit]({{< ref "security-audit" >}})
 

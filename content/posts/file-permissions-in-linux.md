@@ -2,6 +2,14 @@
 title: "File Permissions in Linux"
 date: 2023-07-18T18:10:51-07:00
 categories: ["portfolio", "cybersecurity", "linux commands"]
+url: "/posts/file-permissions-in-linux/"
+logical_breadcrumbs:
+    - title: "Cybersecurity Portfolio"
+      url: "/posts/cyber-security-portfolio-index/"
+    - title: "Google Cybersecurity Professional Course"
+      url: "/posts/cyber-security-portfolio-index/#google-cybersecurity-professional-course"
+    - title: "Linux Commands"
+      url: "/posts/linux-commands/"
 ---
 
 ## Project description

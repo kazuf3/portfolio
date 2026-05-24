@@ -3,6 +3,12 @@ title: "Improving Security Posture With Wazuh"
 date: 2023-08-12T09:36:19-07:00
 categories: ["cybersecurity", "blog", "wazuh"]
 weight: 5
+url: "/posts/improving-security-posture-with-wazuh/"
+logical_breadcrumbs:
+    - title: "Cybersecurity Portfolio"
+      url: "/posts/cyber-security-portfolio-index/"
+    - title: "How-to articles"
+      url: "/posts/cyber-security-portfolio-index/#how-to-articles"
 ---
 
 This post is continued from previous entry, [Zero Cost Home Cybersecurity with

@@ -2,6 +2,15 @@
 title: "Apply Filters to SQL Queries"
 date: 2023-07-18T18:39:54-07:00
 categories: ["portfolio", "cybersecurity", "SQL Queries"]
+url: "/posts/apply-filters-to-sql-queries/"
+logical_breadcrumbs:
+    - title: "Cybersecurity Portfolio"
+      url: "/posts/cyber-security-portfolio-index/"
+    - title: "Google Cybersecurity Professional Course"
+      url: "/posts/cyber-security-portfolio-index/#google-cybersecurity-professional-course"
+    - title: "SQL Queries"
+      url: "/posts/sql-queries/"
+
 ---
 - [Back to SQL Queries]({{< ref "sql-queries" >}})
 

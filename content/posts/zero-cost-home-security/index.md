@@ -3,6 +3,12 @@ title: "Zero Cost Home Cybersecurity with WSL2 and Wazuh"
 date: 2023-08-11T10:01:43-07:00
 categories: ["cybersecurity", "blog", "wazuh"]
 weight: 5
+url: "/posts/zero-cost-home-security/"
+logical_breadcrumbs:
+    - title: "Cybersecurity Portfolio"
+      url: "/posts/cyber-security-portfolio-index/"
+    - title: "How-to articles"
+      url: "/posts/cyber-security-portfolio-index/#how-to-articles"
 ---
 There are many cybersecurity solutions for home usage in combination with
 endpoint security and network intrusion detection or prevention systems. Some of

@@ -1,8 +1,9 @@
 ---
-title: "Cyber Security Portfolio Index"
+title: "Cybersecurity Portfolio Index"
 date: 2023-07-17T20:19:48-07:00
 weight: 1
 categories: ["cybersecurity", "portfolio"]
+url: "/posts/cyber-security-portfolio-index/"
 ---
 
 ## Google Cybersecurity Professional Course
