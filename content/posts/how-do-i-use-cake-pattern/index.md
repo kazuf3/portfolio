@@ -5,6 +5,11 @@ weight: 5
 tags:
     - Coding
     - Scala
+categories: ["Blog"]
+url: "/posts/how-do-i-use-cake-pattern/"
+logical_breadcrumbs:
+    - title: "Blog"
+      url: "/categories/blog"
 ---
 
 T-Code-Engine is a project to build a Japanese IME for T-Code input method, which does:

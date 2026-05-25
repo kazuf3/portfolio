@@ -3,6 +3,10 @@ title: "Secure WSL2 Credentials with pass, GnuPG, and Kleopatra"
 date: 2026-05-06T10:04:41-07:00
 categories: ["blog", "credential management"]
 weight: 5
+url: "/posts/use-of-pass-and-kleopatra/"
+logical_breadcrumbs:
+    - title: "Blog"
+      url: "/categories/blog"
 ---
 
 Here is the complete Markdown article for your setup. It includes the updated
